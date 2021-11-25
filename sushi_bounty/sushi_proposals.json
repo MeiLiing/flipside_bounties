@@ -1,0 +1,4725 @@
+[
+        {
+          "id": "0x3e8c549e82d973bfa76f8ae705b453af8f19a465c8418de8ad042509eb44142f",
+          "title": "Fund Team to Onboard Communities",
+          "choices": [
+            "Yes, LFFFFGG",
+            "More info in Forum pls ",
+            "Not needed."
+          ],
+          "start": 1637233200,
+          "end": 1637492400,
+          "snapshot": "13632357",
+          "author": "0xBd31D988151DE348C928254D5622148Fdf7AF73C",
+          "votes": 202,
+          "scores": [
+            106049.23305496263,
+            1367.2388917909673,
+            654.0325905789354
+          ],
+          "scores_total": 108070.50453733256
+        },
+        {
+          "id": "0x8315ab4c4ef39731bbae23c398efc7888732f08bb42e9c33ca7db5bca91764b1",
+          "title": "Collateralize SUSHI Reactor on Tokemak",
+          "choices": [
+            "Collateralize Tokemak - $3.0M",
+            "Collateralize Tokemak - $1.5M",
+            "Nay"
+          ],
+          "start": 1636563600,
+          "end": 1636995600,
+          "snapshot": "13589329",
+          "author": "0x1C0Aa8cCD568d90d61659F060D1bFb1e6f855A20",
+          "votes": 1027,
+          "scores": [
+            6728695.233648746,
+            2567.1267762288144,
+            15285.205807153236
+          ],
+          "scores_total": 6746547.566232128
+        },
+        {
+          "id": "QmcwEVRfidkg5U8n3Z9CWgZfb63Fdy9Gy3BPX9z6xZL7nr",
+          "title": "Community-Enabled Analytics [GRANT]",
+          "choices": [
+            "Fund CEA",
+            "Nay"
+          ],
+          "start": 1634659200,
+          "end": 1635015600,
+          "snapshot": "13450939",
+          "author": "0x1C0Aa8cCD568d90d61659F060D1bFb1e6f855A20",
+          "votes": 804,
+          "scores": [
+            3361810.2412042143,
+            197706.93725672548
+          ],
+          "scores_total": 3559517.178460951
+        },
+        {
+          "id": "QmNT8bY7aJRFUMtfbFp9m7JHcUgEVCNZzWE67Crr9oAVrA",
+          "title": "Multichain Expansion Fund [IMPLEMENTATION]",
+          "choices": [
+            "Yay",
+            "Nay"
+          ],
+          "start": 1628827200,
+          "end": 1629226800,
+          "snapshot": "13012538",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 1108,
+          "scores": [
+            12358627.302780304,
+            4328467.722805527
+          ],
+          "scores_total": 16687095.02558583
+        },
+        {
+          "id": "QmfEqngSUDtZHgQf5U9wEpkskwK38zWKbyEeWp3pfz2hPE",
+          "title": "oSUSHI [SIGNAL]",
+          "choices": [
+            "Start the gauge war! (yes)",
+            "Leave Onsen to Sushi team (no)"
+          ],
+          "start": 1628827200,
+          "end": 1629226800,
+          "snapshot": "13012525",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 1089,
+          "scores": [
+            14266737.701309118,
+            59281.02303513961
+          ],
+          "scores_total": 14326018.724344257
+        },
+        {
+          "id": "QmefFaAG2DoFKPdNegZpZHU6yTbXrWYxiwuKPkNQjFtGAC",
+          "title": "Kanpai [SIGNAL]",
+          "choices": [
+            "Yay",
+            "Nay"
+          ],
+          "start": 1628827200,
+          "end": 1629226800,
+          "snapshot": "13012502",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 1027,
+          "scores": [
+            10300382.160948947,
+            4586897.481081551
+          ],
+          "scores_total": 14887279.642030533
+        },
+        {
+          "id": "QmaC15SjeAuAMbUnFp8GP5mk836K68nhsTXWFyWfjh1Rta",
+          "title": "Shoyu Maintenance [GRANT]",
+          "choices": [
+            "We like the JPGs (Yes)",
+            "We don't like the JPGs (No)",
+            "Neutral"
+          ],
+          "start": 1628827200,
+          "end": 1629226800,
+          "snapshot": "13012481",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 1022,
+          "scores": [
+            14214335.217999551,
+            1771.9266284094183,
+            5116.640224657199
+          ],
+          "scores_total": 14221223.784852626
+        },
+        {
+          "id": "QmXTSo2CoFqp8VNqb9Jy8zqgiiKZ9AAPnGwqA3sPaVkBzC",
+          "title": "Sushi Samurai [GRANT]",
+          "choices": [
+            "Onboard Sushi Samurais",
+            "Nay"
+          ],
+          "start": 1628827200,
+          "end": 1629226800,
+          "snapshot": "13012456",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 1037,
+          "scores": [
+            14320715.589776186,
+            1194.3433521932484
+          ],
+          "scores_total": 14321909.93312838
+        },
+        {
+          "id": "QmWqj4HqaY5eFQAKJjTc1BJDXy4HQuTJcGf62qvyRpjFfq",
+          "title": "Sushi Art Class of 2021",
+          "choices": [
+            "Arts, Meme, Videos, NFT, Anime",
+            "No but artist apply for grants"
+          ],
+          "start": 1620345600,
+          "end": 1620518400,
+          "snapshot": "12383130",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 537,
+          "scores": [
+            26933.610851656456,
+            39936.61874941731
+          ],
+          "scores_total": 66870.22960107388
+        },
+        {
+          "id": "QmU7jQsPbzCsBvapwZMGaHTjHb7CUqKz91KSz8iqYez4wv",
+          "title": "Kashi Hackathon",
+          "choices": [
+            "Let's buidl & bring more chefs !",
+            "Go back to the kitchen"
+          ],
+          "start": 1620345600,
+          "end": 1620518400,
+          "snapshot": "12383094",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 505,
+          "scores": [
+            79912.78484270362,
+            2.280105476948418
+          ],
+          "scores_total": 79915.06494818057
+        },
+        {
+          "id": "QmPuCGmPXv1UFqQPk9UF6WhRssHv5qMGKj5HU3wDqbugua",
+          "title": "Incentives on Polygon & xDai",
+          "choices": [
+            "Incentivize with Treasury",
+            "Divert Emission",
+            "Negative Chef"
+          ],
+          "start": 1620360000,
+          "end": 1620446400,
+          "snapshot": "12382964",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 372,
+          "scores": [
+            64605.83421433819,
+            6818.97720144753,
+            47.07203472322232
+          ],
+          "scores_total": 71532.6765636522
+        },
+        {
+          "id": "QmSB39Li1wiNBQuCN2fJkndkoeBomVbp4qY84m56BpDX6Y",
+          "title": "Add SUSHI incentives on SushiSwap Polygon",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1619733600,
+          "end": 1620282600,
+          "snapshot": "12337785",
+          "author": "0x61Bf9c100F997f8218a01244C00Cd303AF95877f",
+          "votes": 358,
+          "scores": [
+            130717.59941454564,
+            7328.88318303787
+          ],
+          "scores_total": 155550.30372921578
+        },
+        {
+          "id": "QmYMmj3WsXUSg2fs3TMCkYoPHPMpJziyddLf144JjTXD1E",
+          "title": "how are you?",
+          "choices": [
+            "Good",
+            "Bad",
+            "NOTA"
+          ],
+          "start": 1618381800,
+          "end": 1618468200,
+          "snapshot": "12236942",
+          "author": "0xEBD819806B7c1B9631AD4Bb858960604B2B0D011",
+          "votes": 51,
+          "scores": [
+            4647.826275817895,
+            0.02354869752918736,
+            617.1746713786204
+          ],
+          "scores_total": 5265.024495894046
+        },
+        {
+          "id": "QmT4yzmAFN3U5ZHHeZJcti18oa8b8hR3jJ41dn81DZ98D8",
+          "title": "fewdsvaxwes",
+          "choices": [
+            "3 2EFREVF",
+            "FE QEGFB"
+          ],
+          "start": 1618641000,
+          "end": 1619245800,
+          "snapshot": "12230430",
+          "author": "0x4472f355eB0e48675519a6D7eACe3596a8431694",
+          "votes": 61,
+          "scores": [
+            1688.730224613368,
+            4655.959463930432
+          ],
+          "scores_total": 6344.689688543801
+        },
+        {
+          "id": "QmfQb4nkcimGkTeQ5cLrdpymuYUW1SuAKec8VzMvQT6AS2",
+          "title": "test proposal",
+          "choices": [
+            "y",
+            "n"
+          ],
+          "start": 1617876000,
+          "end": 1617984000,
+          "snapshot": "12199212",
+          "author": "0xAbc6848bFEB8CfDA888eD0C5A3962e9FA7b556A6",
+          "votes": 61,
+          "scores": [
+            5712.681451485252,
+            136.66934339108354
+          ],
+          "scores_total": 5849.350794876335
+        },
+        {
+          "id": "QmbVauQU7ZvnscS23DMgzb91W2xvcHhAQ4y7Mmy3dG8nF1",
+          "title": "test",
+          "choices": [
+            "1",
+            "2"
+          ],
+          "start": 1617249600,
+          "end": 1617854400,
+          "snapshot": "12164837",
+          "author": "0x9fC6CD1A8eBC2D40C43906B1e698a0460260eFEa",
+          "votes": 74,
+          "scores": [
+            53833.66747722707,
+            15982.562601720803
+          ],
+          "scores_total": 69816.23007894786
+        },
+        {
+          "id": "QmSDwPmm9VTi9dHmg63tMWx1j7MButsRWEenCYQcT8ADL6",
+          "title": "Sushi on Solana",
+          "choices": [
+            "Collaborate with Raydium",
+            "Focus on current deployment",
+            "Neutral / Negotiate better terms"
+          ],
+          "start": 1617116400,
+          "end": 1617390000,
+          "snapshot": "12139182",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 834,
+          "scores": [
+            22916128.873697303,
+            296491.56895710854,
+            17090.473663855522
+          ],
+          "scores_total": 23229710.916318275
+        },
+        {
+          "id": "QmUrmCsmi2dSZ8ytyDSSHnyUQAqYF33YDPeUbUaYuQReg8",
+          "title": "sushiHOUSE Treasury Management",
+          "choices": [
+            "sushiHOUSE+DPI 10m$",
+            "sushiHOUSE+DPI 5m$",
+            "sushiHouse 5m$",
+            "DPI 5m$",
+            "Refusal"
+          ],
+          "start": 1617116400,
+          "end": 1617390000,
+          "snapshot": "12139055",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 722,
+          "scores": [
+            473861.48709514295,
+            7306292.223401576,
+            8081.826092636326,
+            5347.856122983571,
+            2472.500206768508
+          ],
+          "scores_total": 7796055.892919112
+        },
+        {
+          "id": "QmdXP1DogPQm6J5PeEwofVJCL4a1vHd16CvC6CCT9nLDS4",
+          "title": "CLAWS",
+          "choices": [
+            "Up to 250 AP",
+            "Maximum 100 AP",
+            "None"
+          ],
+          "start": 1617116400,
+          "end": 1617390000,
+          "snapshot": "12139048",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 790,
+          "scores": [
+            7769634.137217326,
+            17154.331083545767,
+            7980.920376519772
+          ],
+          "scores_total": 7794769.388677391
+        },
+        {
+          "id": "QmaDuNa98xK1a2dG7hVZccQnRtK5v6jgN6WZbREY9pfQhA",
+          "title": "11",
+          "choices": [
+            "11",
+            "11"
+          ],
+          "start": 1616990400,
+          "end": 1617166800,
+          "snapshot": "12128087",
+          "author": "0x9fC6CD1A8eBC2D40C43906B1e698a0460260eFEa",
+          "votes": 149,
+          "scores": [
+            31666.531163153715,
+            161.15429077718204
+          ],
+          "scores_total": 31827.685453930844
+        },
+        {
+          "id": "QmUaez8y5xRhTv2MeGKvhb7k939qkWmxgZ2R5fmgmVMEpf",
+          "title": "?",
+          "choices": [
+            "A",
+            "B"
+          ],
+          "start": 1616322600,
+          "end": 1616374800,
+          "snapshot": "12081525",
+          "author": "0x45f45a83B71b0d1AC1B993797d88cc3C08985D66",
+          "votes": 10,
+          "scores": [
+            195.54717801205877,
+            0
+          ],
+          "scores_total": 196.73393887373518
+        },
+        {
+          "id": "QmVWm97oWPeJ4gyn8B5c9HN82j6f4C3nRcPh1h72cCCAjf",
+          "title": "ggg",
+          "choices": [
+            "yes",
+            "not"
+          ],
+          "start": 1616385600,
+          "end": 1616558400,
+          "snapshot": "12079278",
+          "author": "0x9ebe424B7bf85Ac8ba42b3f4C9c46DF6809A322A",
+          "votes": 28,
+          "scores": [
+            15331.85074700041,
+            2555.118310152736
+          ],
+          "scores_total": 17886.969057153143
+        },
+        {
+          "id": "QmVGtM2NoZ51Zdo4zWeBEPgVJNdU6Fn5pYR11NReK9zzo7",
+          "title": "fdfgdfg",
+          "choices": [
+            "dfgdfg",
+            "dfgdfg"
+          ],
+          "start": 1616050800,
+          "end": 1616756400,
+          "snapshot": "12063659",
+          "author": "0x83B48a8698Ed024f35D0bf16c719acCF3202F953",
+          "votes": 98,
+          "scores": [
+            47832.74175916925,
+            16821.973092929296
+          ],
+          "scores_total": 64728.96746717627
+        },
+        {
+          "id": "QmXr8XYU9hTB7znvfcAhMvZiceYQcRPEjXZFXx8HbUAXpw",
+          "title": "Where is my mind",
+          "choices": [
+            "wer",
+            "ewrwer",
+            "werwr",
+            "werer"
+          ],
+          "start": 1616151600,
+          "end": 1616756400,
+          "snapshot": "12063650",
+          "author": "0x83B48a8698Ed024f35D0bf16c719acCF3202F953",
+          "votes": 132,
+          "scores": [
+            32515.41877459921,
+            551.3716770030984,
+            2004.0695889437643,
+            821.8587415974476
+          ],
+          "scores_total": 35892.71878214353
+        },
+        {
+          "id": "QmP3S2wkv8rA3XSm9KD35Yjdt8yWvjQTsAUk4X8s73usgL",
+          "title": "test",
+          "choices": [
+            "test",
+            "test"
+          ],
+          "start": 1615953600,
+          "end": 1616040000,
+          "snapshot": "12056683",
+          "author": "0x9437e277C8Ee0815943DaBf393179E0dBd9B0739",
+          "votes": 78,
+          "scores": [
+            4631.192624370151,
+            153.37722823094222
+          ],
+          "scores_total": 4784.569852601093
+        },
+        {
+          "id": "QmRf7QiUTuAcAKH7Vav4ZhUbPQNwBw6Yra2XhUXPmQwU8N",
+          "title": "list ",
+          "choices": [
+            "test2",
+            "test2"
+          ],
+          "start": 1616094000,
+          "end": 1616180400,
+          "snapshot": "12053579",
+          "author": "0xBa745f8B0e83ab6113f6E1d72957a2EF2B140f3C",
+          "votes": 28,
+          "scores": [
+            2197.051915370336,
+            3230.094265568887
+          ],
+          "scores_total": 5501.121103882344
+        },
+        {
+          "id": "QmWEXJ7r32FgEy9J12sFyv6YFhMCn1zzwmVpzK7mzuhwtJ",
+          "title": "Test",
+          "choices": [
+            "I love this shit",
+            "I want to pay fees like in uni "
+          ],
+          "start": 1615381200,
+          "end": 1615485600,
+          "snapshot": "12010895",
+          "author": "0xa9B90D41890A8E05Ba826880B188b501F3ae7Aea",
+          "votes": 41,
+          "scores": [
+            31257.37387822157,
+            888.589607988356
+          ],
+          "scores_total": 32145.963486209926
+        },
+        {
+          "id": "QmYBCGv3dW6svrgHyCZTtsFy3fpG8LqET2PCzDDVLjWYq4",
+          "title": "Expanding SushiSwap's reach to Solana",
+          "choices": [
+            "Yes, let's expand to Solana",
+            "No, let's stay put"
+          ],
+          "start": 1615384800,
+          "end": 1615816800,
+          "snapshot": "12010426",
+          "author": "0x3AE4Eb569e045fd918e5a6CAB0a8bcBFF6B1cAda",
+          "votes": 1627,
+          "scores": [
+            16229945.92869308,
+            746809.2987608312
+          ],
+          "scores_total": 16976757.519026745
+        },
+        {
+          "id": "QmcYeM9DNbehjm8JVQXoPKSx4M9knmaVAAPacJ5txy1RFf",
+          "title": "test",
+          "choices": [
+            "a",
+            "b"
+          ],
+          "start": 1615374000,
+          "end": 1615546800,
+          "snapshot": "12010131",
+          "author": "0xa9B90D41890A8E05Ba826880B188b501F3ae7Aea",
+          "votes": 63,
+          "scores": [
+            31649.434242692023,
+            4163.829205355336
+          ],
+          "scores_total": 35813.263448047364
+        },
+        {
+          "id": "QmXjgif8mZNqkcJcM3gXAiNiTGZEVr5TJTZLKyZDm9kC9q",
+          "title": "Increase vesting period to one year.",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1615269600,
+          "end": 1615572000,
+          "snapshot": "12007088",
+          "author": "0x128201B26deF69e2672a5d9cB0cbAa7557523661",
+          "votes": 260,
+          "scores": [
+            125390.20103239392,
+            92047.4590091422
+          ],
+          "scores_total": 217437.66004153577
+        },
+        {
+          "id": "QmctDcHexBteqShgNjkWPj9EkKJYhPrH8ABnqeaPkHPe2y",
+          "title": "Desktop non lite interface issues with Approve and/or stake button",
+          "choices": [
+            "Yes, please fix",
+            "No, working fine"
+          ],
+          "start": 1615096800,
+          "end": 1615312800,
+          "snapshot": "11990335",
+          "author": "0x8d43370012a87871675C8962a711B6987c2Ea2D5",
+          "votes": 1502,
+          "scores": [
+            43448.434034589234,
+            8773.89862961144
+          ],
+          "scores_total": 52222.33266420066
+        },
+        {
+          "id": "QmWkbufyEs87jDSDP95pQTmgBej7Vm1G7UyE95i8Y2cVgh",
+          "title": "More simple accessibility to night mode UI on Sushi Swap",
+          "choices": [
+            "Easy to access night mode button",
+            "No need for change",
+            "Abstain"
+          ],
+          "start": 1615053600,
+          "end": 1615226400,
+          "snapshot": "11983292",
+          "author": "0x8D2DD1Bcc45A67F99E79cf0D4C81A7c0E6399803",
+          "votes": 1512,
+          "scores": [
+            61114.39921847099,
+            249.23463572159463,
+            0
+          ],
+          "scores_total": 61363.63385419259
+        },
+        {
+          "id": "QmW5iv3ADDzhbdoi7pxFaNg6cqFBKxLe8DVcG7vVDhnsQD",
+          "title": "Will sushi be in the top 3 exchange volumes by the end of 2021?",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1613889000,
+          "end": 1613975400,
+          "snapshot": "11892423",
+          "author": "0x6F6417FF89386a5B59E112b051Bfa7c48d1eaA97",
+          "votes": 13,
+          "scores": [
+            4839.905897737741,
+            0
+          ],
+          "scores_total": 4839.905897737741
+        },
+        {
+          "id": "QmTrcCybeUbhhYX65iNLMDwf1Mefgoikza38SdsPMV4Bv2",
+          "title": "Does Sushi Beat UNI To The Moon?",
+          "choices": [
+            "UNI to Moon",
+            "Sushi to Moon"
+          ],
+          "start": 1613412000,
+          "end": 1613498400,
+          "snapshot": "11857124",
+          "author": "0xF9E89c3b514fC0c9048A2ba2475739A52e697e0F",
+          "votes": 34,
+          "scores": [
+            3.491745471567371,
+            14328.51789205283
+          ],
+          "scores_total": 14332.009637524397
+        },
+        {
+          "id": "QmbR6KM71PTNSt2zmgPSB23sCZrLy5sKRe8SzWCTxXhnAP",
+          "title": "How about my proposal?",
+          "choices": [
+            "Yes, I agree",
+            "No, I disagree"
+          ],
+          "start": 1613275200,
+          "end": 1613361600,
+          "snapshot": "11853200",
+          "author": "0x9ee1B8Fd52321De805772EFea2F6AeFeEeDc735d",
+          "votes": 2,
+          "scores": [
+            608.8167358539717,
+            0
+          ],
+          "scores_total": 608.8167358539717
+        },
+        {
+          "id": "QmXSBJuJ23d7J11aorkGYG2x4aY4dQb4kMD4Lwbs25EN8S",
+          "title": "Yo",
+          "choices": [
+            "Yo",
+            "No"
+          ],
+          "start": 1612069200,
+          "end": 1612242000,
+          "snapshot": "11762101",
+          "author": "0xB2A5c803247e275a2B9a4BD0d2f28e8183C607dD",
+          "votes": 15,
+          "scores": [
+            577.4019024458343,
+            0
+          ],
+          "scores_total": 577.4019024458343
+        },
+        {
+          "id": "QmPwBGy98NARoEcUfuWPgzMdJdiaZub1gVic67DcSs6NZQ",
+          "title": "SIMP#3 - Vesting",
+          "choices": [
+            "Option 1",
+            "Option 1.1",
+            "Option 2",
+            "Option 1+2"
+          ],
+          "start": 1611813600,
+          "end": 1612072800,
+          "snapshot": "11740332",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 405,
+          "scores": [
+            3017142.925793838,
+            4432.786985273746,
+            8159268.910496997,
+            1197725.9589444646
+          ],
+          "scores_total": 12378570.582220586
+        },
+        {
+          "id": "QmW22zbD56EQkCSb8QvL5iZcUX5bXVdGXBzZ9xGnJmsdVk",
+          "title": "Test",
+          "choices": [
+            "test",
+            "test"
+          ],
+          "start": 1611921600,
+          "end": 1612094400,
+          "snapshot": "11737309",
+          "author": "0x91212de083d29342F670FB69Ffa68176369e3B20",
+          "votes": 3,
+          "scores": [
+            1218.2769430966043,
+            0
+          ],
+          "scores_total": 1218.2769430966043
+        },
+        {
+          "id": "QmbiBCS8vv1ssiWMEcHraXVvXJVrfJe258GXCuEj96mXAr",
+          "title": "Sushi governance voting eligibility",
+          "choices": [
+            "only LP and xSushi",
+            "all of them"
+          ],
+          "start": 1611831600,
+          "end": 1612004400,
+          "snapshot": "11734372",
+          "author": "0x07843F1Da93d580AA75a2B6FbC119Fa56849557b",
+          "votes": 12,
+          "scores": [
+            34025.89874479003,
+            118.68310294368968
+          ],
+          "scores_total": 34144.58184773372
+        },
+        {
+          "id": "QmW7VxtDGkyJ4pC2DAYhAUbWNXMJmfo47kAJzgVJ6vBTsc",
+          "title": "test",
+          "choices": [
+            "a",
+            "b"
+          ],
+          "start": 1609473600,
+          "end": 1610078400,
+          "snapshot": "11697150",
+          "author": "0x71e5BA181bde54aAc2244CD209517b245e210042",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmYBojkztQbtPiCdYEfAMY4cQd8kyuGHGuaH3kPL6vmXZ9",
+          "title": "Sushi-based tokens are on sale, pre-ordered by: Twitter: @lilinyugod",
+          "choices": [
+            "Agree",
+            "Oppose"
+          ],
+          "start": 1610269200,
+          "end": 1610683200,
+          "snapshot": "1111111111",
+          "author": "0x8C254640D1b9d27bF58bF6f6878D1c2647b4E5E7",
+          "votes": 15,
+          "scores": [
+            1550.1503608448538,
+            2099.966144421156
+          ],
+          "scores_total": 3650.11650526601
+        },
+        {
+          "id": "QmaJaCuBq26sLR9VWHZjhQUq83g6uNH862KBwiWgRnNPn2",
+          "title": "Sushi-based tokens are on sale, pre-ordered by: Twitter: @lilinyugod",
+          "choices": [
+            "Agree ",
+            "Oppose"
+          ],
+          "start": 1610247600,
+          "end": 1610683200,
+          "snapshot": "11624415",
+          "author": "0x8C254640D1b9d27bF58bF6f6878D1c2647b4E5E7",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmQbZmBGhBG8jXRkwG9S1BcsCG6r7nT9qhpneCMPSQd7Nb",
+          "title": "Sushi-based public offering of tokens",
+          "choices": [
+            "Agree",
+            "Oppose"
+          ],
+          "start": 1610247600,
+          "end": 1612065600,
+          "snapshot": "11624349",
+          "author": "0x8C254640D1b9d27bF58bF6f6878D1c2647b4E5E7",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmfYNxnWf62q988H7c8UzDnsp8XaNwBjjf1JXVSyyngkcf",
+          "title": "Team Proposal add more Chefs",
+          "choices": [
+            "Yes More Chefs",
+            "No Same Chefs"
+          ],
+          "start": 1610017200,
+          "end": 1610395200,
+          "snapshot": "11604799",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 114,
+          "scores": [
+            5049008.320109607,
+            13322.10996347424
+          ],
+          "scores_total": 5062330.4300730815
+        },
+        {
+          "id": "Qmbc6ozDHFQyKtAEfZwH4BKA36RJYvbjdGWVzThUPrf2AA",
+          "title": "Yes",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1608102120,
+          "end": 1608782400,
+          "snapshot": "11465938",
+          "author": "0x996c5c9EdDcc5244d9216631fDF3E8EC482E765f",
+          "votes": 4,
+          "scores": [
+            67254.66571854158,
+            0
+          ],
+          "scores_total": 67254.66571854158
+        },
+        {
+          "id": "QmUe9Q3BUHvJgmjENevKAU5hCfsYMU9wozHVnT9aqnuMMx",
+          "title": "Free eth airdrop",
+          "choices": [
+            "Yes",
+            "Not"
+          ],
+          "start": 1608177600,
+          "end": 1608264000,
+          "snapshot": "11364629",
+          "author": "0x996c5c9EdDcc5244d9216631fDF3E8EC482E765f",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmcvdHzLsQ49dMEXi5VMykHYpgE3oVzCMNqGSbehATLmYg",
+          "title": "SIMP #2",
+          "choices": [
+            "Open the Onsen now ( Yes )",
+            "Go back to the Kitchen ( No )"
+          ],
+          "start": 1607748600,
+          "end": 1608008400,
+          "snapshot": "11436019",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 141,
+          "scores": [
+            15193250.14486971,
+            0
+          ],
+          "scores_total": 15193250.14486971
+        },
+        {
+          "id": "QmU8oxTvWkXrzgejRkjGot74FmVHR42Pq2VRtnLAYEnJyd",
+          "title": "Yearn x Sushi - Permanent Menu",
+          "choices": [
+            "Yeh",
+            "Nay"
+          ],
+          "start": 1606887900,
+          "end": 1607060700,
+          "snapshot": "11364804",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 73,
+          "scores": [
+            6870252.770938196,
+            5613.754757468211
+          ],
+          "scores_total": 6875866.525695665
+        },
+        {
+          "id": "Qmczqhvmmepe9wwuvw7Uuhk7GKb29Gu5cW73VrLxjG7T1K",
+          "title": "Yearn x Sushi - Treasury",
+          "choices": [
+            "Ye",
+            "Nay"
+          ],
+          "start": 1606887600,
+          "end": 1607083200,
+          "snapshot": "11364790",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 396,
+          "scores": [
+            12908305.447608557,
+            13124418.35109304
+          ],
+          "scores_total": 26032723.798701975
+        },
+        {
+          "id": "QmUDaXEniNB8NBHnqQM5dmXXsGW8QLgS4jxguhQb2k2CAj",
+          "title": "Cover x Sushi - Cover Protection",
+          "choices": [
+            "350k DAI",
+            "250k DAI",
+            "100K DAI",
+            "0 DAI, 3 months 0.1x alloc SUSHI rewards"
+          ],
+          "start": 1606289400,
+          "end": 1606635000,
+          "snapshot": "11326159",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 55,
+          "scores": [
+            51742.53049715554,
+            130158.81574927075,
+            12522.83701403851,
+            2841289.2592280977
+          ],
+          "scores_total": 3035713.442488563
+        },
+        {
+          "id": "QmZWRSCQNegKbRMsMSQZmSAaerTNXFoD2A3YvqpbmSyCHm",
+          "title": "123",
+          "choices": [
+            "123-y",
+            "123-z",
+            "233-t",
+            "446-7"
+          ],
+          "start": 1606194000,
+          "end": 1606712400,
+          "snapshot": "11325160",
+          "author": "0xfc2A0dB072b5D91E22a08beBF8909b280A01785F",
+          "votes": 3,
+          "scores": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmYE9CMHXW815Ez2U8G9PCxecm6ryqJWFAQSJUjq6Nu5ip",
+          "title": "y",
+          "choices": [
+            "y",
+            "n"
+          ],
+          "start": 1604552400,
+          "end": 1605934800,
+          "snapshot": "11325154",
+          "author": "0xfc2A0dB072b5D91E22a08beBF8909b280A01785F",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "Qma72FtSbiRJj4v4VLNfXXM3xV6N12J1dVfg9x7dFvZVMo",
+          "title": "dfz",
+          "choices": [
+            "y",
+            "n"
+          ],
+          "start": 1606237200,
+          "end": 1606582800,
+          "snapshot": "11323997",
+          "author": "0x58E603d9824976F7a3940C6B408F0Ffa523a216C",
+          "votes": 3,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmcAYok9eTiRB1ApuiiTD49q7z7JgFwEtGQyVGFhRPFdQW",
+          "title": "SIMP#1: Sushibar v2",
+          "choices": [
+            "Yes, I approve Simp#1",
+            "No, I disagree"
+          ],
+          "start": 1605733200,
+          "end": 1605992400,
+          "snapshot": "11284182",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 68,
+          "scores": [
+            10257503.1216992,
+            0
+          ],
+          "scores_total": 10257503.121699201
+        },
+        {
+          "id": "Qmajj2U9nM9fCJ6Yo5t3m2E2SdecREF9URW4noUs2Z7wwS",
+          "title": "Team Proposal : Levx",
+          "choices": [
+            "Yes Hire Levx (with 300k Sushi compensation)",
+            "Yes Hire Levx (with 250k Sushi compensation)",
+            "No"
+          ],
+          "start": 1605733200,
+          "end": 1605992400,
+          "snapshot": "11284168",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 62,
+          "scores": [
+            49895.43283775082,
+            5718164.364947884,
+            5548368.418254819
+          ],
+          "scores_total": 11316428.216040451
+        },
+        {
+          "id": "QmNVpSsNyR5MbMXFg3wNW3cxK8KUSSUYroUxxBF5HKtQsj",
+          "title": "Why do I have no any tokens?",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1605067200,
+          "end": 1605153600,
+          "snapshot": "11230697",
+          "author": "0x5bd7Daa872D4e4EBe77420E368C0d683317840bA",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmXvC4djfTYjbb9TgYJ3HeoCBoJZuPyhrPMHuqWoVhUydC",
+          "title": "Add WBTC/WETH Sushi incentives ",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1604077200,
+          "end": 1604512800,
+          "snapshot": "11153626",
+          "author": "0xa4214cab2b92900F82a32Ee881D15a8809F764ee",
+          "votes": 5,
+          "scores": [
+            3923.6757174779914,
+            0
+          ],
+          "scores_total": 3923.6757174779914
+        },
+        {
+          "id": "QmeV6iDgAmZs3H5Nkh2errBjF2Mtkw9mqSqPFqHaE8fMXb",
+          "title": "No, leave as is.",
+          "choices": [
+            "Yes lets Boost to 12x",
+            "No, leave as is."
+          ],
+          "start": 1603454400,
+          "end": 1603627200,
+          "snapshot": "11112244",
+          "author": "0x4086E3e1e99a563989a9390faCff553A4f29b6eE",
+          "votes": 13,
+          "scores": [
+            11842577.024592351,
+            1211520.96039744
+          ],
+          "scores_total": 13054097.98498979
+        },
+        {
+          "id": "QmXPpdqKLv3L3ti5WJVpwQy1tzYz431CNkbcs8uvxuWEoH",
+          "title": "test",
+          "choices": [
+            "a",
+            "b"
+          ],
+          "start": 1603184400,
+          "end": 1603357200,
+          "snapshot": "11091507",
+          "author": "0x73Ba2Da99734F0507a01D03B10A168551415cBb7",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmWcCAZgdy9hekPiCsGcN5ytbnqrudka9feYtona27N9gw",
+          "title": "test",
+          "choices": [
+            "yes",
+            "no"
+          ],
+          "start": 1603080000,
+          "end": 1603512000,
+          "snapshot": "11079074",
+          "author": "0x7FaA32b18C874b2eB4B42bC0d0924eFBBed49423",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmUFuj1RPpNX4AvVsqzcNXKGCQ1ug5nKixW1ncq4yGV45H",
+          "title": "Launching a new SushiSwap on Moonbeam",
+          "choices": [
+            "We going to the Moon 🌑",
+            "No Moon"
+          ],
+          "start": 1602827100,
+          "end": 1603108800,
+          "snapshot": "11058489",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 86,
+          "scores": [
+            7408414.937132987,
+            68388.45975562578
+          ],
+          "scores_total": 7476803.396888613
+        },
+        {
+          "id": "QmXDb66rDMFxjJXPY72b9iyjSrDtqdMgGL6DDnFTksUnGC",
+          "title": "BlockChain Market data",
+          "choices": [
+            "yes",
+            "no"
+          ],
+          "start": 1602596100,
+          "end": 1604030400,
+          "snapshot": "11047582",
+          "author": "0x4E615efF185e767aCF06780B674A4852ac8d1C72",
+          "votes": 9,
+          "scores": [
+            0,
+            3528.388438477117
+          ],
+          "scores_total": 3528.388438477117
+        },
+        {
+          "id": "QmWbtqg5am84Z1i13tLx1NsnEth8ikouuUiWoKrw21faqk",
+          "title": "SushiSwap/MetaSwap.app",
+          "choices": [
+            "DM us on Twitter @metaswapapp",
+            "DM us on Twitter @metamorphpro"
+          ],
+          "start": 1602036000,
+          "end": 1603159200,
+          "snapshot": "11000664",
+          "author": "0x7A9dbEAd85731D7ec80D28e63aE6bACCA99F948E",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmPhM4SXbfihdGaLXJ2TCDNkd4wToptEtPw9Gz64sKeQ8s",
+          "title": "123",
+          "choices": [
+            "1",
+            "2",
+            "3"
+          ],
+          "start": 1602064800,
+          "end": 1603969200,
+          "snapshot": "2147483647",
+          "author": "0x5d2e1fE7c61a8C69b29e834be08fa3Ded886DCF1",
+          "votes": 4,
+          "scores": [
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmQ8kiLzGTWH1dbPLqKccRVPeRVy1JiW3HiZXSg6n8brCe",
+          "title": "Proposal to build sushiswap.info",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1602039600,
+          "end": 1602385200,
+          "snapshot": "10996734",
+          "author": "0x587448b57044DF31C66a7051F96E1A34480F4bB4",
+          "votes": 6,
+          "scores": [
+            0,
+            10951.121823384472
+          ],
+          "scores_total": 10951.121823384472
+        },
+        {
+          "id": "QmQ567b5Bwg6oUb7xqr1bpQ5JDUTHAYAozkUUdrsCfVs1V",
+          "title": "Sushinomics : Sushi Block schedule",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1601989200,
+          "end": 1602162000,
+          "snapshot": "10994715",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 58,
+          "scores": [
+            11612644.290280404,
+            0
+          ],
+          "scores_total": 11612644.290280405
+        },
+        {
+          "id": "QmXwDpjsnoMKujSANruJiV6W8G7LBQVq6VQK3K39J4azk1",
+          "title": "Team Proposal : OmakaseBar + JiroOno",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1601542800,
+          "end": 1601802000,
+          "snapshot": "10961701",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 52,
+          "scores": [
+            7087416.913844838,
+            9967.125693169022
+          ],
+          "scores_total": 7097384.039538006
+        },
+        {
+          "id": "QmTXmwr3bYKeyLXApZnrtq1uppJBGMRgbacMTtbk9DULL7",
+          "title": "test",
+          "choices": [
+            "test1",
+            "test2"
+          ],
+          "start": 1601006400,
+          "end": 1601092800,
+          "snapshot": "10936192",
+          "author": "0xEdba3A794B15880659b4459E02350C1c73cE2375",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmZTwyGgJb7k6RofLJW2hMy2yMaE2p2zyE6hGbdaWHmUUY",
+          "title": "BentoBox Lending solution proposal",
+          "choices": [
+            "Yes! Innovation is awesome!",
+            "Nah..."
+          ],
+          "start": 1600952400,
+          "end": 1601125200,
+          "snapshot": "10925450",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 96,
+          "scores": [
+            20840462.28526317,
+            0
+          ],
+          "scores_total": 20840462.285263166
+        },
+        {
+          "id": "QmXg8Vq6sNpNWYRvM3GyCQbyDVRk8kRNF3PytGoexrDGgL",
+          "title": "Growth fund for the team",
+          "choices": [
+            "200k SUSHI",
+            "150k SUSHI",
+            "100k SUSHI",
+            "50k SUSHI",
+            "25k SUSHI",
+            "0k SUSHI",
+            "I don't like this proposal"
+          ],
+          "start": 1600948800,
+          "end": 1601121600,
+          "snapshot": "10925450",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 68,
+          "scores": [
+            6020409.7265776945,
+            1089380.8835062825,
+            3467640.8517046343,
+            45131.00067373552,
+            19531.333506401937,
+            523.6364027399453,
+            0
+          ],
+          "scores_total": 10642617.432371492
+        },
+        {
+          "id": "QmRxm2o1QAZb6Xv5qfDPXaRte8v8dFsSZHNs7rc6Tb67Zv",
+          "title": "Test",
+          "choices": [
+            "yes",
+            "no"
+          ],
+          "start": 1600862400,
+          "end": 1600948800,
+          "snapshot": "1085000",
+          "author": "0xCBB6682f949dd8F8ec2C48DE75f952149F0cE490",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmVNYANPeQaoxqmh46S2fpR2j8iKa1qW4RxWqT6PuRRafh",
+          "title": "(TEAM) Hiring ctrl as COO",
+          "choices": [
+            "👍 For",
+            "👎Against"
+          ],
+          "start": 1600757100,
+          "end": 1600929900,
+          "snapshot": "10913902",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 74,
+          "scores": [
+            5582063.389116249,
+            21325.13660601929
+          ],
+          "scores_total": 5603388.525722268
+        },
+        {
+          "id": "QmWQjtyfmJZ6CQEu2ULsAyTrLoBnHZr9Nw5y9wCcRRZUD3",
+          "title": "Rotate the pools we incentivize",
+          "choices": [
+            "Yes!",
+            "Nah..."
+          ],
+          "start": 1600797600,
+          "end": 1600970400,
+          "snapshot": "10913902",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 93,
+          "scores": [
+            6473962.52514867,
+            1078.5607668900016
+          ],
+          "scores_total": 6475041.085915559
+        },
+        {
+          "id": "Qme8MYH2nWR3qcecxnVU5F824VJ2LjeKKr5mNaVdQ7ZfcF",
+          "title": "SUSHINOMICS 1.1 : SUSHI emission",
+          "choices": [
+            "Option 1",
+            "Option 2",
+            "Option 3",
+            "Option 4 ",
+            "Option 5 NO"
+          ],
+          "start": 1600417800,
+          "end": 1600560000,
+          "snapshot": "10884782",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 141,
+          "scores": [
+            435.0928500931365,
+            568253.9623847066,
+            14.706963475599084,
+            93597.76206197588,
+            1809.5584260268013
+          ],
+          "scores_total": 664111.0826862779
+        },
+        {
+          "id": "QmS8n7JVy9p96e1Kooe4LMzR49yCuqySxM1vTuZZjRktYF",
+          "title": "SUSHINOMICS 1 : Emissions Options",
+          "choices": [
+            "⅔ of SUSHI emissions are locked for 6 months, ⅓ unlocked; wait to change anything until fully ready; hard-cap supply at 250m ever",
+            "⅔ of SUSHI emissions are locked for 6 months, ⅓ unlocked; immediately take emissions down by 66%, and then apply the locked portion (including retroactively) once the code is ready; hard-cap supply at 250m ever",
+            "Take total emissions down by 50%; ⅔ of SUSHI emissions are locked for 6 months, ⅓ unlocked; wait to change anything until fully ready; hard-cap supply at 250m ever",
+            "Take total emissions down by 50%; ⅔ of SUSHI emissions are locked for 6 months, ⅓ unlocked; immediately take emissions down by 83%, and then apply the locked portion (including retroactively) once the code is ready; hard-cap supply at 250m ever",
+            "I do not like any of these options"
+          ],
+          "start": 1600414200,
+          "end": 1600560000,
+          "snapshot": "10884782",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 19,
+          "scores": [
+            402.31828886219944,
+            0,
+            0,
+            422.1063770903439,
+            411.6272215877195
+          ],
+          "scores_total": 1236.051887540263
+        },
+        {
+          "id": "QmZ7s6137TcW7rBXePy29sKzX7hX4CtBnnQj1tGUDdFGMV",
+          "title": "What day is it today?",
+          "choices": [
+            "Sunday",
+            "Monday"
+          ],
+          "start": 1600689600,
+          "end": 1600948800,
+          "snapshot": "89809423",
+          "author": "0xd76c6901c3e6E7f4C2C504aA27830B665EC2de75",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmbJQ9x525xBqFqGShcJUWZqFcDUso1uVs1MxhnV8UySW2",
+          "title": "Burn the Sushi Treasury Tokens and Fire 0xMaki",
+          "choices": [
+            "Vote Yay!",
+            "Vote Nay"
+          ],
+          "start": 1600237800,
+          "end": 1600912800,
+          "snapshot": "9242020",
+          "author": "0x81893b7A5661D4BBADB29c5900d26af6BFE81Aeb",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmPZ9oZ9odtHBDKhuMJSrM6sWCimEh9LMGinehqJC8VEwL",
+          "title": "Burn the Sushi Treasury Tokens and Fire 0xMaki",
+          "choices": [
+            "Vote Yay",
+            "Vote Nay"
+          ],
+          "start": 1600236000,
+          "end": 1600826400,
+          "snapshot": "9222020",
+          "author": "0x81893b7A5661D4BBADB29c5900d26af6BFE81Aeb",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmScN4xYPDDZNmkcpz2bZYqg1TUrxBikKs2wii3iNvNasd",
+          "title": "Proposal To Make Sushi Price Go Up",
+          "choices": [
+            "Devs Catfish elderly women for their life savings $2",
+            "Devs start an onlyfans $2.37",
+            "Devs rob a bank $2.50",
+            "Devs commit insurance fraud $5.00",
+            "Devs extort a rich hieress 7.50",
+            "Devs start a drug cartel $45",
+            "Devs polygamist marriage with Jeff Bezos $100",
+            "No, I like the pain"
+          ],
+          "start": 1600171200,
+          "end": 1600344000,
+          "snapshot": "10870124",
+          "author": "0x33c3af383d912B5DE662a3964e6008F1CB5DdAF7",
+          "votes": 7,
+          "scores": [
+            0,
+            7.274948236168812,
+            0,
+            0,
+            1529.3701079708303,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 1536.645056206999
+        },
+        {
+          "id": "QmSzYHrXfD8NrMZ2ch12dgT7mDYEdskiu2YqZ5bNeH3pvf",
+          "title": "Reward increase for long term LP",
+          "choices": [
+            "We should consider this and vote on multiplier rate in separate proposal",
+            "Give them nothing"
+          ],
+          "start": 1600171200,
+          "end": 1601640000,
+          "snapshot": "10869455",
+          "author": "0xB5CE69909FB22BC37702f1504c1eF8e23084Da49",
+          "votes": 11,
+          "scores": [
+            812.9830761700636,
+            24.91672683108632
+          ],
+          "scores_total": 837.8998030011498
+        },
+        {
+          "id": "QmPELBjaXJMuoPvi6xkzjCv6Gc6qxNrhFQYrFSEFcBzdid",
+          "title": "Inflation - When should it be adjusted?",
+          "choices": [
+            "October 2020",
+            "November 2020",
+            "December 2020",
+            "January 2021",
+            "I love this much inflation, don't change it",
+            "Change it ASAP, I'm bleeding sushi here.."
+          ],
+          "start": 1600084800,
+          "end": 1600689600,
+          "snapshot": "10866300",
+          "author": "0x82e5290C810539e120193DFA8B1C1207BAd89FAB",
+          "votes": 7,
+          "scores": [
+            351.95027494989057,
+            0,
+            0,
+            13.7376951666841,
+            0,
+            223.21165089949773
+          ],
+          "scores_total": 588.8996210160724
+        },
+        {
+          "id": "QmXsUc969nZBevTQhMPgF5WD6mJKjn836yk4R9EgRYxVgF",
+          "title": "The SUSHI buyback has finished. Should be burned?",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+          ],
+          "start": 1600138800,
+          "end": 1600344000,
+          "snapshot": "10863929",
+          "author": "0x27726763E0dd39F3582650fdB5287B81D04bDD92",
+          "votes": 12,
+          "scores": [
+            0,
+            25.00000000001336,
+            552.7080607826144,
+            782.6724005010276
+          ],
+          "scores_total": 1360.3804612836552
+        },
+        {
+          "id": "QmY1XoFHjHTroNRwRowGsxwhjaKTj97Zrw2m7VcTpurUvh",
+          "title": "*UPDATED* Community Incentivization Plan",
+          "choices": [
+            "YES",
+            "NO"
+          ],
+          "start": 1599998400,
+          "end": 1600171200,
+          "snapshot": "10855426",
+          "author": "0xf6423ebAEf6996Aee56ecb1D49be02613aF8555E",
+          "votes": 6,
+          "scores": [
+            669.6731495426818,
+            0
+          ],
+          "scores_total": 669.6731495426818
+        },
+        {
+          "id": "Qmc3BQR939HTQdungssb5HJj8tczqzX5rdnNkKLmnhqyFX",
+          "title": "Community Proposal Incentivisation Plan *URGENT*",
+          "choices": [
+            "Pass This Proposal",
+            "Do Not Pass This Proposal",
+            "Priority: Quality of Life",
+            "Priority: Low",
+            "Priority: Medium",
+            "Priority: High",
+            "Priority: Very High"
+          ],
+          "start": 1599998400,
+          "end": 1600171200,
+          "snapshot": "10855287",
+          "author": "0xf6423ebAEf6996Aee56ecb1D49be02613aF8555E",
+          "votes": 1,
+          "scores": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmWbNxa23q6pTinJBTYTApVEyTUqx3N5udN38HvczWkD3p",
+          "title": "Spread out ChefNomi Buyback Dev Fund",
+          "choices": [
+            "Buy everything in one go",
+            "Spread for 2 days (50% each day)",
+            "Spread for 3 days (33% each day)",
+            "Spread for 5 days (20% each day)",
+            "Spread for 1 week (14.2% each day)",
+            "Spread for 1 month (3.33% each day)",
+            "Other"
+          ],
+          "start": 1600009200,
+          "end": 1600128000,
+          "snapshot": "10855164",
+          "author": "0xE5B2124767F10D21F643Db08E4eBf0f17250d582",
+          "votes": 4,
+          "scores": [
+            0,
+            0,
+            0,
+            0,
+            20.619266768526753,
+            75.95081675450476,
+            0
+          ],
+          "scores_total": 96.57008352303151
+        },
+        {
+          "id": "QmPquCKbEBK41zMh8Kxbo42tdRfo6xjxUy7VPFBw38STY1",
+          "title": "tes",
+          "choices": [
+            "t",
+            "est"
+          ],
+          "start": 1598875200,
+          "end": 1600344000,
+          "snapshot": "10000000",
+          "author": "0x10747f32528d086c781630DFe377F1A3f524d6f4",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmeEUyk6kC8WRtqhZ8WWbnTHLU4UPmNvLeZqCSkZSxTnr5",
+          "title": "What would happen if 1 Sushi was worth 100,000,000,000,000,000,000,000,000,000$?",
+          "choices": [
+            "we would all be rich",
+            "other"
+          ],
+          "start": 1599739200,
+          "end": 1631275200,
+          "snapshot": "88888888",
+          "author": "0x10747f32528d086c781630DFe377F1A3f524d6f4",
+          "votes": 7,
+          "scores": [
+            25.88650516030859,
+            0
+          ],
+          "scores_total": 25.886505160308594
+        },
+        {
+          "id": "QmcJemBfHfrmCrrvAdcVk8U4zqM3XGj2DZ68gDdPr7cjzo",
+          "title": "test",
+          "choices": [
+            "1",
+            "2"
+          ],
+          "start": 1598875200,
+          "end": 1601380800,
+          "snapshot": "9999999",
+          "author": "0x10747f32528d086c781630DFe377F1A3f524d6f4",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmREmG7pozfySg8YEctH35dKGaHPUKsVuSZmW5UAakAh76",
+          "title": "test",
+          "choices": [
+            "test2",
+            "test3"
+          ],
+          "start": 1599739200,
+          "end": 1606651200,
+          "snapshot": "10000000",
+          "author": "0x10747f32528d086c781630DFe377F1A3f524d6f4",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmQmrAAhjbiYUTUqFvjcxhZ79Eo3nZj5JsrsRLrbJY5sjz",
+          "title": "Sushi Visa/Mastercard ",
+          "choices": [
+            "Yes",
+            "No",
+            "I dont care"
+          ],
+          "start": 1599912000,
+          "end": 1600344000,
+          "snapshot": "10848273",
+          "author": "0x1846837591FCDEfF4ec8e01Ef8bB76645672b153",
+          "votes": 2,
+          "scores": [
+            68.69242766177852,
+            0,
+            0
+          ],
+          "scores_total": 68.69242766177852
+        },
+        {
+          "id": "QmZ58Lp1JDvMXB6qXopsgwvz5VTgZ6ihCpzwjHYymBDH2q",
+          "title": "Grant 50k to Aragon Conviction Voting Pilot For Projects That Combine Aragon & Sushi!",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599874920,
+          "end": 1600430400,
+          "snapshot": "10850754",
+          "author": "0x069e85D4F1010DD961897dC8C095FBB5FF297434",
+          "votes": 3,
+          "scores": [
+            189.7858329963204,
+            124.91033191074042
+          ],
+          "scores_total": 314.69616490706085
+        },
+        {
+          "id": "QmSd8QEpwjoJ9pHRPLRhqNTA8FQRz4Vs4d8g9xNvAbrwy2",
+          "title": "Xtoken holders will get sushipowah",
+          "choices": [
+            "Hell, YES!",
+            "Shite, NO!"
+          ],
+          "start": 1599912000,
+          "end": 1600257600,
+          "snapshot": "10800000",
+          "author": "0xa4A381864C03bDBd624ACb190c3fd4FB00e4923d",
+          "votes": 18,
+          "scores": [
+            192.97742825528076,
+            1581.6369922494189
+          ],
+          "scores_total": 1774.6144205046992
+        },
+        {
+          "id": "QmV7hhMQKLYfhYeakGAXb3nXM8LsqYq1LSTAH2iZ32YRkr",
+          "title": "Extend day of reward",
+          "choices": [
+            "1 day",
+            "3 days",
+            "5 days",
+            "10 days",
+            "15 days"
+          ],
+          "start": 1599912000,
+          "end": 1599998400,
+          "snapshot": "1",
+          "author": "0xbC7b2461bfaA2fB47bD8f632d0c797C3BFD93B93",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmfFqZbf9bxLHCFnKSfqeVUHvUHYsUtUt7NVazfui9XkBP",
+          "title": " Sushi Use Returned Funds to Rebuy $SUSHI for Dev Fund",
+          "choices": [
+            "Use 50% ",
+            "Use 75% ",
+            "Use 100%",
+            "Don't use"
+          ],
+          "start": 1599912000,
+          "end": 1600344000,
+          "snapshot": "10848273",
+          "author": "0x1ff7d6ED0A68f665981Da611CEd8eAd1fAe89234",
+          "votes": 6,
+          "scores": [
+            0,
+            0,
+            394.1571909017366,
+            0
+          ],
+          "scores_total": 394.15719090173667
+        },
+        {
+          "id": "QmcbcJPfdKUN6MMq6nUq5nReFgp1f8iXTVAZcHcekPY84v",
+          "title": "Should we reward our volunteers?",
+          "choices": [
+            "No, we shouldn't pay our volunteers",
+            "Yes, we should pay them 10 $SUSHI each",
+            "Yes, we should pay them 50 $SUSHI each",
+            "Yes, we should pay them 100 $SUSHI each",
+            "Yes, we should pay them 200 $SUSHI each",
+            "Yes, we should pay them 400 $SUSHI each",
+            "Yes, we should pay them 500 $SUSHI each"
+          ],
+          "start": 1599998400,
+          "end": 1600084800,
+          "snapshot": "10848162",
+          "author": "0x038eE56230ECC8fa7B2D2867FFEB424470b1E214",
+          "votes": 11,
+          "scores": [
+            2172.714135335241,
+            0,
+            0,
+            47.18149493469768,
+            0,
+            0,
+            651.6128209205478
+          ],
+          "scores_total": 2871.5084511904865
+        },
+        {
+          "id": "QmWKLbF4JBgRvSYYEZH5EPzjcF4jSA8TxHJJQE38VyLJcG",
+          "title": "Adjusting fees in trading pairs.",
+          "choices": [
+            "YES! As soon as it posibble.",
+            "NO. We don't care."
+          ],
+          "start": 1599836400,
+          "end": 1601380800,
+          "snapshot": "10845141",
+          "author": "0x5ad3EdaBa22E3E08FD978deDC579795D260d52C8",
+          "votes": 24,
+          "scores": [
+            5293.2759397847485,
+            500.61957094444847
+          ],
+          "scores_total": 5793.895510729197
+        },
+        {
+          "id": "QmQkr5x4UD5PX1DMuKRrMQJK9vbBosqsgZnoNALoV8rLXY",
+          "title": "Voting power to Stakers",
+          "choices": [
+            "YES: Stakers can vote",
+            "NO: Stakers can not vote"
+          ],
+          "start": 1599922800,
+          "end": 1600009200,
+          "snapshot": "10854392",
+          "author": "0xB9f191316c5aDd0355a237aA6E76CB1083192034",
+          "votes": 11,
+          "scores": [
+            860.6711602267911,
+            500.61957094444847
+          ],
+          "scores_total": 1361.2907311712395
+        },
+        {
+          "id": "QmY66XwcgCSNGju7FK1E4wbVHyLy1KukBZw1Egq5nqHxdL",
+          "title": "Establish Temporary Voting Poll",
+          "choices": [
+            "100k SushiPowah",
+            "200k SushiPowah",
+            "300k SushiPowah",
+            "400k SushiPowah",
+            "500k SushiPowah",
+            "600k SushiPowah",
+            "700k SushiPowah",
+            "800k SushiPowah",
+            "900k SushiPowah",
+            "1M SushiPowah",
+            "1.5M SushiPowah",
+            "2M SushiPowah",
+            "2.5M SushiPowah (100%)"
+          ],
+          "start": 1599919200,
+          "end": 1600092000,
+          "snapshot": "10847582",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 357,
+          "scores": [
+            31660.00054029526,
+            32622.932449739303,
+            877356.5757055469,
+            166757.04974235775,
+            15989.5534368482,
+            75424.93867540934,
+            0,
+            241.01705284207708,
+            0,
+            458.974736345061,
+            72.05827181786027,
+            136.3510499591746,
+            19226.908863378263
+          ],
+          "scores_total": 1219946.3605245391
+        },
+        {
+          "id": "QmUEzga9yP2DSAYo4rYWZ8fz9tG7HKEC1p3C5dyaEYgLJn",
+          "title": " Use returned funds to rebuy $sushi for dev fund (with fairer quorum 400k, and 3-day to vote)",
+          "choices": [
+            "Use 50% of the ETH",
+            "Use 75% of the ETH",
+            "Use 100% of the ETH",
+            "Don't use any ETH"
+          ],
+          "start": 1599829200,
+          "end": 1600088400,
+          "snapshot": "10867204",
+          "author": "0x2e37561E5cd35E649F4aCad3cAA6be8B16c87C13",
+          "votes": 39,
+          "scores": [
+            53.83074856359401,
+            946.306159109158,
+            77.656068921085,
+            0
+          ],
+          "scores_total": 1077.792976593837
+        },
+        {
+          "id": "QmdUUJeVr8bDExRzXmws51Bu2HGnj11VYT7YntGVxZRqy6",
+          "title": "Use returned funds to rebuy $sushi for dev fund (with fairer quorum 400k, and 3-day to vote)",
+          "choices": [
+            "Use 50% of the ETH",
+            "Use 75% of the ETH",
+            "Use 100% of the ETH",
+            "Don't use any ETH"
+          ],
+          "start": 1599828600,
+          "end": 1600087800,
+          "snapshot": "10847210",
+          "author": "0x2e37561E5cd35E649F4aCad3cAA6be8B16c87C13",
+          "votes": 38,
+          "scores": [
+            53.83074856359401,
+            3287.8682776373994,
+            7138.507197724708,
+            0
+          ],
+          "scores_total": 10480.206223925701
+        },
+        {
+          "id": "QmV97u2MKSUH1Xh6Ly9cZCtGVRkHUtJDahnc164z9o9R9g",
+          "title": "Use returned funds to rebuy $sushi for dev fund (with fairer quorum)",
+          "choices": [
+            "Use 50% of the ETH",
+            "Use 75% of the ETH",
+            "Use 100% of the ETH",
+            "Don't use any of the ETH"
+          ],
+          "start": 1599828300,
+          "end": 1600087500,
+          "snapshot": "10847190",
+          "author": "0x2e37561E5cd35E649F4aCad3cAA6be8B16c87C13",
+          "votes": 4,
+          "scores": [
+            0,
+            12.10381841431048,
+            1160.3622011541374,
+            0
+          ],
+          "scores_total": 1172.466019568448
+        },
+        {
+          "id": "QmccP53kWWGgAxGDnSEmR4CJ4zvPyvaHayTrcmcv7KZy3n",
+          "title": " Sushi $Sushi ChefNomi Buyback Proposal",
+          "choices": [
+            "US $ 2 million",
+            "US $ 5 million",
+            "US $ 8 million",
+            "US $ 11 million",
+            "US $ 14 million"
+          ],
+          "start": 1599825600,
+          "end": 1599912000,
+          "snapshot": "10846536",
+          "author": "0x4A63552f00C841186E5174179A8c7D44Fe85aBAA",
+          "votes": 0,
+          "scores": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmdw4N86MGnpP4giA66PKtHKodG12w1WS42vVGyEDJ9NUh",
+          "title": "$Sushi ChefNomi Buyback Proposal",
+          "choices": [
+            "US $ 2 million",
+            "US $ 5 million",
+            "US $ 8 million",
+            "US $ 11 million",
+            "US $ 14 million"
+          ],
+          "start": 1599914400,
+          "end": 1600000800,
+          "snapshot": "10846536",
+          "author": "0x4A63552f00C841186E5174179A8c7D44Fe85aBAA",
+          "votes": 27,
+          "scores": [
+            58.597063928383655,
+            0,
+            3714.837257625041,
+            98.62322444882014,
+            365.9250066548639
+          ],
+          "scores_total": 4237.982552657109
+        },
+        {
+          "id": "QmNqnYpCgmpoaJPDTBsDzKsRc4Y2dqLGkHi7heMCsWRXov",
+          "title": "Use Returned Funds to Rebuy $SUSHI for Dev Fund",
+          "choices": [
+            "Use 50% of the ETH",
+            "Use 75% of the ETH",
+            "Use 100% of the ETH",
+            "Don't use any"
+          ],
+          "start": 1599913800,
+          "end": 1600518600,
+          "snapshot": "10888888",
+          "author": "0xEDdAF8E0340D04349b7001c64b6236911F74eDa4",
+          "votes": 47,
+          "scores": [
+            20.206844305845,
+            1068.118032780022,
+            108.32102167522564,
+            0
+          ],
+          "scores_total": 1196.6458987610927
+        },
+        {
+          "id": "QmZnsfv1m4kgSwM9YixfHo8HZoF4TznAYZ6dgFfdZ5m6rA",
+          "title": "STOP all proposal for hire 0xMaki and any \"Compensation\"",
+          "choices": [
+            "STOP all 0xMaki hire proposal",
+            "Shut up this 0xMaki deserve it",
+            "Proposal for ChefNomi would be great"
+          ],
+          "start": 1599912000,
+          "end": 1599998400,
+          "snapshot": "10847007",
+          "author": "0xbB4B818130666AAA6f941c36f6726cD03ED126A1",
+          "votes": 8,
+          "scores": [
+            1253.9467944148023,
+            845.3071946236436,
+            0
+          ],
+          "scores_total": 2099.253989038446
+        },
+        {
+          "id": "QmRtN1736QLy7Kr74iMXn2YgaPy8NkxmxSJq8c612HdJ1N",
+          "title": "0xMaki Compensation Proposal",
+          "choices": [
+            "This is a bad proposal, back to the drawing board",
+            "No SUSHI",
+            "250k SUSHI",
+            "500k SUSHI",
+            "750k SUSHI",
+            "1,000,000 SUSHI",
+            "1,250,000 SUSHI",
+            "1,500,000 SUSHI",
+            "1,750,000 SUSHI",
+            "2,000,000 SUSHI"
+          ],
+          "start": 1599904800,
+          "end": 1599969600,
+          "snapshot": "10846502",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 249,
+          "scores": [
+            12472.878611625049,
+            11297.6188198676,
+            117334.8463475751,
+            10573.454687218116,
+            124095.94591385756,
+            788.3102392636947,
+            4.402721881707819,
+            160638.8052567712,
+            0,
+            49.38500000001336
+          ],
+          "scores_total": 437255.6475980601
+        },
+        {
+          "id": "QmNbA89xVnyQ1fgLUuh8cQA5sdL1SBXNaNNDsdQvg1WE4c",
+          "title": "Formally Hire 0xMaki but different compensations",
+          "choices": [
+            "All divided by 2 (3x250k sushi)",
+            "All divided by 4 (3x125k sushi)",
+            "All divided by 6 (3x83.3k sushi)",
+            "All divided by 8 (3x62.5k sushi)",
+            "All divided by 10 (3x50k sushi)",
+            "Less. To be determined in another proposal."
+          ],
+          "start": 1599825600,
+          "end": 1600084800,
+          "snapshot": "10846300",
+          "author": "0xD4a622A7bF6F0196391878315b518E5518D4A8e8",
+          "votes": 2,
+          "scores": [
+            0,
+            0,
+            0,
+            0,
+            59.28531334900816,
+            0
+          ],
+          "scores_total": 59.28531334900816
+        },
+        {
+          "id": "QmcKvaZmR9JUeEtFVpkNamG2nP3iQGi4wH2dy8qb6Gfk9L",
+          "title": "Provide Chef Nomi a one-time founder bonus",
+          "choices": [
+            "2,500,000 SUSHI Founder Bonus",
+            "1,000,000 SUSHI Founder Bonus",
+            "500,000 SUSHI Founder Bonus",
+            "100,000 SUSHI Founder Bonus",
+            "1,000 SUSHI Founder Bonus",
+            "1 SUSHI Founder Bonus",
+            "No Founder Bonus"
+          ],
+          "start": 1599890400,
+          "end": 1600516800,
+          "snapshot": "10800000",
+          "author": "0x875f6DC5c6e671a99b6B75FfC8be749fE024A8A9",
+          "votes": 89,
+          "scores": [
+            55.698966166366155,
+            3155.333868232158,
+            18027.501930411778,
+            309.71736450964283,
+            78.78520232413346,
+            0,
+            1154.1090346783096
+          ],
+          "scores_total": 22781.1463663224
+        },
+        {
+          "id": "QmSir5B1fjFBRF46QcAncq1r1H8HEcQy23TvkZmZSSJkwU",
+          "title": "Fixing $SUSHI inflation without damage to LP",
+          "choices": [
+            "Yes, I support this changes",
+            "No, I strongly disagree"
+          ],
+          "start": 1599933600,
+          "end": 1600106400,
+          "snapshot": "10845000",
+          "author": "0x9cDEA12621A2ac04B80Cd60afBF7eFf364AFA305",
+          "votes": 12,
+          "scores": [
+            3627.114065574467,
+            514.3572661111326
+          ],
+          "scores_total": 4141.4713316856
+        },
+        {
+          "id": "QmP56ctCyt9YPWAZM1vdPUPGMrcMNJhnMHogkYrRws9Aqh",
+          "title": "Preliminary proposal for salaries of contributors",
+          "choices": [
+            "Only support proposal A",
+            "Only support proposal B",
+            "Only support proposal C",
+            "Only support proposal D",
+            "Support all proposals",
+            "Disagree with all proposals"
+          ],
+          "start": 1599912000,
+          "end": 1600171200,
+          "snapshot": "10845540",
+          "author": "0x32090756e61322BE936c7F903B40ceA24641Ed04",
+          "votes": 7,
+          "scores": [
+            0,
+            0,
+            108.23341972365463,
+            190.26059818324947,
+            254.1196561408212,
+            0
+          ],
+          "scores_total": 552.6136740477253
+        },
+        {
+          "id": "QmUbqqaMrVx2c7a66mH6LgCWNHwNqjKBEQHJDM1wWwS6jv",
+          "title": "Integrate FIAT On/Ramp provider sushiswapclassic ",
+          "choices": [
+            "Yes",
+            "No",
+            "Don't know"
+          ],
+          "start": 1599800400,
+          "end": 1601035200,
+          "snapshot": "10817188",
+          "author": "0x4dBeA90381CEb21925eb0a9ca39d7300afb7e5e1",
+          "votes": 16,
+          "scores": [
+            33959.25026651984,
+            25.37041196457197,
+            0
+          ],
+          "scores_total": 33984.62067848441
+        },
+        {
+          "id": "Qmb1vJpzYbhij26epxv1GYVht3BD6mzFtm6Fb4wQcBHJ3d",
+          "title": "Send Uniswap a Sushi Platter for Lunch",
+          "choices": [
+            "Send the soosh",
+            "Unicorns don't eat sushi"
+          ],
+          "start": 1599912000,
+          "end": 1599998400,
+          "snapshot": "10845203",
+          "author": "0x9AE8912ea6562957043c8d048641Aa9B450c397f",
+          "votes": 5,
+          "scores": [
+            590.8285213183407,
+            12.557778699884423
+          ],
+          "scores_total": 603.3863000182251
+        },
+        {
+          "id": "Qmetft3A3WBF4KdeM8TZ44y1ur44FFYUHSLVKcQsQhgJPb",
+          "title": "Adjusting commission fee for a certain trading pair.",
+          "choices": [
+            "YES! As fast as it possible!",
+            "No, we don't care"
+          ],
+          "start": 1599800400,
+          "end": 1601035200,
+          "snapshot": "10845141",
+          "author": "0x5ad3EdaBa22E3E08FD978deDC579795D260d52C8",
+          "votes": 5,
+          "scores": [
+            650.7398905425783,
+            0
+          ],
+          "scores_total": 650.7398905425783
+        },
+        {
+          "id": "QmPJxGocxQL457UvTpj9mr9gTAmeKz2nn3Nf7DYLK3sMQe",
+          "title": "Formally Hire 0xMaki to lead project, Option #3",
+          "choices": [
+            "hell to the Yes!",
+            "shite No!",
+            "something else mate!"
+          ],
+          "start": 1599912000,
+          "end": 1600430400,
+          "snapshot": "10850000",
+          "author": "0xa4A381864C03bDBd624ACb190c3fd4FB00e4923d",
+          "votes": 13,
+          "scores": [
+            483.9420880961916,
+            1.4519538710666011,
+            131.69421012395503
+          ],
+          "scores_total": 617.0882520912132
+        },
+        {
+          "id": "QmWSQZZkaUXo6HkMiihXjRpy9VWjbnHkdLe6A3qse2AoXC",
+          "title": "Change the tokenomics",
+          "choices": [
+            "Approve",
+            "Deny"
+          ],
+          "start": 1599825600,
+          "end": 1600084800,
+          "snapshot": "10844420",
+          "author": "0xA651aE82E5924EA6f16aC837cdC062028a8b37e2",
+          "votes": 4,
+          "scores": [
+            337.9160509916438,
+            47.18149493469768
+          ],
+          "scores_total": 385.09754592634147
+        },
+        {
+          "id": "QmVZnSgrYAXe9YaLCjJZsfDrv2nuomxx1XFkuCpWjcb2iR",
+          "title": "Add a REB2/ETH pool on the SushiSwap Menuenuenu",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599804000,
+          "end": 1600149600,
+          "snapshot": "10842758",
+          "author": "0xe640F69288680517CAaEbC7e1986b78a9B5f9422",
+          "votes": 4,
+          "scores": [
+            5.0536654551061595,
+            84.51271518925736
+          ],
+          "scores_total": 89.56638064436352
+        },
+        {
+          "id": "QmYVsG7VjgxDiQRLQRx4KgsYUst62a5ytGuw5zFrsqQAMs",
+          "title": "Formally Hire 0xMaki to Lead Project with Reduced Upfront",
+          "choices": [
+            "Do not hire 0xMaki",
+            "Hire 0xMaki with payment 5% upfront / 95% time locked",
+            "Hire 0xMaki with payment 10% upfront / 90% time locked",
+            "Hire 0xMaki with payment >=15% upfront"
+          ],
+          "start": 1599912000,
+          "end": 1600084800,
+          "snapshot": "10841801",
+          "author": "0x3c00A3cfbb7c0671519832e0E198256b3586D989",
+          "votes": 4,
+          "scores": [
+            1108.5840940253124,
+            214.23978435111613,
+            0,
+            0
+          ],
+          "scores_total": 1322.8238783764286
+        },
+        {
+          "id": "QmTmTpeavCXTB6yVcK6oeET14m7LGAhmmPsFnNzCBxsZAR",
+          "title": "Pay the Uniswap team 1M $SUSHI for all their hard work.",
+          "choices": [
+            "Pay Uniswap 1M $SUSHI",
+            "Don't appreciate Uniswap and not pay"
+          ],
+          "start": 1599847200,
+          "end": 1600020000,
+          "snapshot": "10859800",
+          "author": "0xEDdAF8E0340D04349b7001c64b6236911F74eDa4",
+          "votes": 29,
+          "scores": [
+            216.77854473732273,
+            6782.492781261407
+          ],
+          "scores_total": 6999.2713259987295
+        },
+        {
+          "id": "QmVpvAaF4QQQvPZQJB8V3Lac19pQbgtYuNgRRehouEZrDC",
+          "title": "Formally Hire 0xMaki to lead project, Option #2",
+          "choices": [
+            "Approve",
+            "Deny",
+            "Prefer different compensation scheme"
+          ],
+          "start": 1599847200,
+          "end": 1600106400,
+          "snapshot": "10842034",
+          "author": "0xbC90B3Ce40fc3Ed921D910f3e046C65954fFF7cB",
+          "votes": 66,
+          "scores": [
+            35916.05583073515,
+            9218.588252032652,
+            83481.373304077
+          ],
+          "scores_total": 128616.0173868448
+        },
+        {
+          "id": "QmTZkNFov1MzaFcMcrbVV83EuGPM1zTYRYLyeYHEv8o6F8",
+          "title": "Integrate Sushiswap into Infinity Wallet",
+          "choices": [
+            "Approve this proposal",
+            "Decline this proposal"
+          ],
+          "start": 1599825600,
+          "end": 1600171200,
+          "snapshot": "10841801",
+          "author": "0x833188845B40226a7bC6B8634572CE84b542c994",
+          "votes": 11,
+          "scores": [
+            449.3370314463886,
+            0
+          ],
+          "scores_total": 449.3370314463886
+        },
+        {
+          "id": "Qmb8fAu23UQLeHuSdE6bDhM9FYYLCmZttzi7fmPEY6qDPg",
+          "title": "Formally Hire 0xMaki to Lead Project",
+          "choices": [
+            "Approve this Vote",
+            "Deny this Vote"
+          ],
+          "start": 1599825600,
+          "end": 1600084800,
+          "snapshot": "10841801",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 334,
+          "scores": [
+            202014.3167927244,
+            94002.2483141352
+          ],
+          "scores_total": 296016.56510685966
+        },
+        {
+          "id": "QmcU4asQnC9eeNqM7deZiN9DzNCpdjmmaxW5nFwMgENgMj",
+          "title": "ETH/WBTC farming pool",
+          "choices": [
+            "YES, go ahead with ETH/WBTC farming",
+            "NO, probably next time"
+          ],
+          "start": 1599825600,
+          "end": 1600516800,
+          "snapshot": "10900000",
+          "author": "0xa4A381864C03bDBd624ACb190c3fd4FB00e4923d",
+          "votes": 34,
+          "scores": [
+            28148.038854542392,
+            13.7376951666841
+          ],
+          "scores_total": 28161.776549709077
+        },
+        {
+          "id": "QmPM1RrGtjkqVadZKE3ZKiMWaJwfHFPDroiummsspwF1Ze",
+          "title": "Use Returned Funds to Rebuy $SUSHI for Dev Fund",
+          "choices": [
+            "Use 50% of the ETH",
+            "Use 75% of the ETH",
+            "Use 100% of the ETH",
+            "Don't use any of the ETH"
+          ],
+          "start": 1599825600,
+          "end": 1599912000,
+          "snapshot": "10841488",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 892,
+          "scores": [
+            66846.48089905632,
+            69380.20780709587,
+            425043.78950075386,
+            733.8823537029142
+          ],
+          "scores_total": 562004.3605606094
+        },
+        {
+          "id": "QmQ5gWdDu8sUyZiwvT4uGQy1qKrvi766TWRP6gJSt7i2o3",
+          "title": "How many sushi do you have?",
+          "choices": [
+            "1",
+            "10",
+            "100",
+            "1000",
+            "100000",
+            "1000000",
+            "More"
+          ],
+          "start": 1599739200,
+          "end": 1601380800,
+          "snapshot": "10900000",
+          "author": "0x48880719610F98367283C1aFf85718307e4Ab341",
+          "votes": 23,
+          "scores": [
+            59.763962194721465,
+            0,
+            85.47835013650962,
+            9.20251732031196,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 154.44482965154305
+        },
+        {
+          "id": "QmSqJpk6zjKJ3r28VLTdhuDNjGWaSWm4pc1Z12dDVLMYgu",
+          "title": "Rethink Airdrop Rewards",
+          "choices": [
+            "Consider this or an alternative",
+            "Proceed as planned"
+          ],
+          "start": 1599825600,
+          "end": 1599868800,
+          "snapshot": "10839558",
+          "author": "0xB5CE69909FB22BC37702f1504c1eF8e23084Da49",
+          "votes": 11,
+          "scores": [
+            33.277260246975594,
+            409.1676911114502
+          ],
+          "scores_total": 442.44495135842584
+        },
+        {
+          "id": "QmUFwdaNRWwNkEVsCWrWNuH6RSCiVcWqgt4ZdgsjMp2Lvo",
+          "title": "Q1 test",
+          "choices": [
+            "1 test",
+            "2 test",
+            "3 test"
+          ],
+          "start": 1599739200,
+          "end": 1599912000,
+          "snapshot": "123",
+          "author": "0x75FfF19972cfA9326897483a886c6F6316393eed",
+          "votes": 0,
+          "scores": [
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmSTYzkuixAXZ8tcvDWvnWKBebEkroWcDfYF2uKRFuDSbY",
+          "title": "Haha",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599739200,
+          "end": 1599825600,
+          "snapshot": "10838173",
+          "author": "0x007F452d7fc26B5c094fD901FFa57C6352770322",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmfL7Z5aQNrx62VcN4EhHq5L9YBxGFfD6e2Ya1Do3EcHCc",
+          "title": "Do we need a fresh new logo for SushiSwap?",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599739200,
+          "end": 1599998400,
+          "snapshot": "10860000",
+          "author": "0x7813F757C33CF46f914090D87Ac9E84be4b03a6F",
+          "votes": 16,
+          "scores": [
+            903.1558200904784,
+            171.9933452712295
+          ],
+          "scores_total": 1075.149165361708
+        },
+        {
+          "id": "Qmd5cYY4MCPh2dpTiwNJDH8FCey9AHxV72fh1bv95FgGVA",
+          "title": "add logo for YFRB on sushiswap",
+          "choices": [
+            "yes",
+            "no",
+            "please sir"
+          ],
+          "start": 1599739200,
+          "end": 1599998400,
+          "snapshot": "111",
+          "author": "0x863A3bD6f28f4F4A131c88708dA91076fDC362C7",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmcAmpVSyKByMY2UkhtUExLbKXhMSzSvzAjazFuJNDNrgP",
+          "title": "why is the sky blue?",
+          "choices": [
+            "a",
+            "b",
+            "b"
+          ],
+          "start": 1599739200,
+          "end": 1600430400,
+          "snapshot": "9",
+          "author": "0xd76c6901c3e6E7f4C2C504aA27830B665EC2de75",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmT7AYQU6gP6bh9SESTK7ZQpMjMBPH2jQQac77XJ2W2qMZ",
+          "title": "See you tomorrow?",
+          "choices": [
+            "1",
+            "2"
+          ],
+          "start": 1599652800,
+          "end": 1599739200,
+          "snapshot": "10832550",
+          "author": "0xe7f8212874d2cAcd36c658D822646B61cDF23371",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmNzEDBdovDSvvDU9T7m4YUXiueap6ZSGVLp3NmNqioGen",
+          "title": "Good day ~ ",
+          "choices": [
+            "yes",
+            "no"
+          ],
+          "start": 1599634800,
+          "end": 1599721200,
+          "snapshot": "10832537",
+          "author": "0xe7f8212874d2cAcd36c658D822646B61cDF23371",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmbQ8T9o2KiiUnz18P2pQpCopsmk7DDJCTikCSwTuZRQfj",
+          "title": "add coin",
+          "choices": [
+            "btc",
+            "eth",
+            "eos"
+          ],
+          "start": 1599652800,
+          "end": 1601380800,
+          "snapshot": "10837888",
+          "author": "0x77b403bdcF059994a648Bd0F0B48e0A7781C4891",
+          "votes": 16,
+          "scores": [
+            858.7988787590697,
+            0,
+            0
+          ],
+          "scores_total": 858.7988787590697
+        },
+        {
+          "id": "QmZZNMgwz2yAsmcSSZeqUqETNbp84KinkvPZpecv2Gx25w",
+          "title": "\"Seaweed mode\" (Dark mode) ",
+          "choices": [
+            "Yes, Seaweed mode",
+            "No, Just a normal dark mode"
+          ],
+          "start": 1599739200,
+          "end": 1599912000,
+          "snapshot": "10817188",
+          "author": "0x1A4d4866e8f7625574411f0652b4d1A90629B83A",
+          "votes": 10,
+          "scores": [
+            1332.3211264507845,
+            0
+          ],
+          "scores_total": 1332.3211264507843
+        },
+        {
+          "id": "QmUhHnwBPsCgC1XvxjfmRPCkvhKWMaD4jywtfPmcNmQR95",
+          "title": "[Pool Request] Add SWRV/ETH LP Pool",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599667200,
+          "end": 1599840000,
+          "snapshot": "10830100",
+          "author": "0x6D3E136698beFEe231cD2E4E94bE0105D62FA01F",
+          "votes": 18,
+          "scores": [
+            34163.51667001313,
+            0
+          ],
+          "scores_total": 34163.51667001313
+        },
+        {
+          "id": "QmWP8Gidry9YYnM2vJH7hyj8cSsXhmuHDnXtCshbWo13gH",
+          "title": "set",
+          "choices": [
+            "tes",
+            "sset"
+          ],
+          "start": 1599220800,
+          "end": 1599652800,
+          "snapshot": "1222222",
+          "author": "0xA5403cECD0F4Ffd25B5b86BCF1d2b8FD5CF7474d",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmP52LjLmiWHcVbH5MYrR2bt3aA6qb9QoZmAT4PMxyBTiu",
+          "title": "24-hour wait requirement for Discord",
+          "choices": [
+            "Yes",
+            "-"
+          ],
+          "start": 1599652800,
+          "end": 1599739200,
+          "snapshot": "10828032",
+          "author": "0x01f2f39f782228772e40446ef85f42cF775daa9b",
+          "votes": 16,
+          "scores": [
+            1886.5125842497848,
+            179.52418263713562
+          ],
+          "scores_total": 2066.0367668869203
+        },
+        {
+          "id": "QmUKcN1w28AkioVEmegtrRrPsiYNnaTo2DuPDbRaeWdTFu",
+          "title": "Cut Emissions & Add Lock-Up",
+          "choices": [
+            "Yes, support this change to $SUSHI emission",
+            "No, continue the current emission of $SUSHI"
+          ],
+          "start": 1599566400,
+          "end": 1599739200,
+          "snapshot": "10825000",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 286,
+          "scores": [
+            255318.83221064223,
+            29253.643730107055
+          ],
+          "scores_total": 284572.4759407491
+        },
+        {
+          "id": "QmWCiJkv3xTcH4zCfxgyTtpLkaB5LML9PGuQHwMw1eNePA",
+          "title": "Hire 0xMaki for SushiSwap Full Time",
+          "choices": [
+            "Yes, approve and hire our new Chef!",
+            "No, don't approve this proposal."
+          ],
+          "start": 1599566400,
+          "end": 1599739200,
+          "snapshot": "10825000",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 20,
+          "scores": [
+            314.17488765269263,
+            11834.853680521486
+          ],
+          "scores_total": 12149.028568174179
+        },
+        {
+          "id": "QmYJ5FYtJDncEhdB2W7zh26GHGWsWVrwkvVXKjoH6VNk69",
+          "title": "Ratify a Temporary Governance Voting Model",
+          "choices": [
+            "Yes, require signers use this model.",
+            "No, require signers use a different model.",
+            "No, have signers be subjective on if a vote passes."
+          ],
+          "start": 1599566400,
+          "end": 1599652800,
+          "snapshot": "10824267",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 5,
+          "scores": [
+            448.3799454982825,
+            0,
+            0
+          ],
+          "scores_total": 448.3799454982825
+        },
+        {
+          "id": "QmRYRwQXQZa1ppgN9f1g2p6kXVtjcJ5aa8nDPWZ2JRUWj9",
+          "title": "[Multi-sig Governance] Candidate @OmakaseBar (Contributor) ",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "_"
+          ],
+          "start": 1599559200,
+          "end": 1599660000,
+          "snapshot": "10817188",
+          "author": "0xb900Ee43397Bc2829e565DECe3518A02F712Ec33",
+          "votes": 9,
+          "scores": [
+            1038.8060896125742,
+            0
+          ],
+          "scores_total": 1038.8060896125742
+        },
+        {
+          "id": "QmWawUVS3v2KcEqrTLgaw7LAuVK7mteZ3BM5Wpd3k15erK",
+          "title": "[Multi-sig Governance] Candidate @OmakaseBar (Contributor) ",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "_"
+          ],
+          "start": 1599480000,
+          "end": 1599660000,
+          "snapshot": "10817188",
+          "author": "0xb900Ee43397Bc2829e565DECe3518A02F712Ec33",
+          "votes": 10,
+          "scores": [
+            1783.3304813523932,
+            0
+          ],
+          "scores_total": 1783.3304813523932
+        },
+        {
+          "id": "QmeZgYahwqHkA7sNqwNZNhRMSi9k733rNHFArkSjkjhrB6",
+          "title": "Match SBF's 1M Sushi Migration Incentive from Treasury",
+          "choices": [
+            "0X",
+            "5M",
+            "10M",
+            "20M",
+            "40M",
+            "80M"
+          ],
+          "start": 1599577200,
+          "end": 1599598800,
+          "snapshot": "10821610",
+          "author": "0x2dDdb6a69f071313580073941a4491313303b1AB",
+          "votes": 1,
+          "scores": [
+            0,
+            69.66012183149438,
+            0,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 69.66012183149438
+        },
+        {
+          "id": "QmeFRmo3jewKgK3Zur3y6geF51BeTEgMrdbMJojWMvmAyD",
+          "title": " Who will you vote for in the 2020 U.S. presidential election?",
+          "choices": [
+            "Trump ",
+            "Biden",
+            "a homeless dog",
+            "kek the god"
+          ],
+          "start": 1599480000,
+          "end": 1605009600,
+          "snapshot": "10819084",
+          "author": "0x480b32A4e96f63d805F487a5c23E6db5a7d9e02A",
+          "votes": 70,
+          "scores": [
+            15021.28805621887,
+            1853.5914814404323,
+            996.7627116028,
+            8072.597486710341
+          ],
+          "scores_total": 25944.239735972445
+        },
+        {
+          "id": "QmQS4VVB2FCn1JkgydJ29LnAqw23cVf7aUKKSUD5HXRZki",
+          "title": "[Multi-sig Governance] Candidate @BulldaxOfficial (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660000,
+          "snapshot": "10817188",
+          "author": "0x7bA6372DfEe7eae56C9fA96Cd477455E8a4B2C6D",
+          "votes": 7,
+          "scores": [
+            2933.762960624435,
+            172.29968742429273
+          ],
+          "scores_total": 3106.0626480487285
+        },
+        {
+          "id": "QmQtkm8AHqpX8LfZrhCwQZ8UkUwZj71tsZNnUxUp1uTDB4",
+          "title": "[Multi-sig Governance] Candidate @Quentin__M (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 79,
+          "scores": [
+            113010.2578220704,
+            3762.0402492371913
+          ],
+          "scores_total": 116772.29807130758
+        },
+        {
+          "id": "QmUYW8CjcJ75XRifq2oTJZkRNaAWLo6WdVLYYcydAc3MiZ",
+          "title": "[Multi-sig Governance] Candidate @mickhagen (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 51,
+          "scores": [
+            158742.95047000542,
+            2612.547053421854
+          ],
+          "scores_total": 161355.49752342727
+        },
+        {
+          "id": "Qmf6nY1iffWpX2wHySYYkAnjXiUgCY49yZbj7sR4r6fBqA",
+          "title": "[Multi-sig Governance] Candidate @rleshner (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 181,
+          "scores": [
+            231250.063762904,
+            1002.7539162779666
+          ],
+          "scores_total": 232252.81767918196
+        },
+        {
+          "id": "QmfAGCWq7adzCr14fgZpsLFtDGL349yuNsvHzpg2bNWbpq",
+          "title": "[Multi-sig Governance] Candidate @JiroOnoSushi (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 49,
+          "scores": [
+            109072.11444996607,
+            2835.6849026818604
+          ],
+          "scores_total": 111907.79935264795
+        },
+        {
+          "id": "Qmew6unHuCZjZea7t3nhNbA1fUWw6eDgz3KKFsWqpebbt1",
+          "title": "[Multi-sig Governance] Candidate @mattysino (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 42,
+          "scores": [
+            160724.75040649797,
+            590.3058252427998
+          ],
+          "scores_total": 161315.05623174077
+        },
+        {
+          "id": "QmRePpAS33UU8dePLVSeiA9pGsM4Lsaqc8idQKbHk8CTgN",
+          "title": "[Multi-sig Governance] Candidate @danielque (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 20,
+          "scores": [
+            2334.502262716761,
+            52527.99918175588
+          ],
+          "scores_total": 54862.50144447264
+        },
+        {
+          "id": "QmSKdd8wwBiu8TtH5asrToPvxhS1jUsHoEMH4f6AyYCFyf",
+          "title": "[Multi-sig Governance] Candidate @intocryptoast (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 18,
+          "scores": [
+            8551.119170664193,
+            2516.7407233268596
+          ],
+          "scores_total": 11067.859893991052
+        },
+        {
+          "id": "QmQkZ5GMasvWu7J3JjkkaGbXZ4AZ17Uae8pATRwNmTJwF5",
+          "title": "[Multi-sig Governance] Candidate @shmula (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 34,
+          "scores": [
+            30356.43582628753,
+            1837.288446381032
+          ],
+          "scores_total": 32193.72427266856
+        },
+        {
+          "id": "QmNspea4fSffhq8WaxziKXq1g9GBLBH3Zg9TBK2ogc17fE",
+          "title": "[Multi-sig Governance] Candidate @ctrl (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 68,
+          "scores": [
+            42268.88598526681,
+            0
+          ],
+          "scores_total": 42268.88598526681
+        },
+        {
+          "id": "Qmbs9RTBm4WnhczHuH1VX2vRLvccDQaLNBmt23LvkomquX",
+          "title": "[Multi-sig Governance] Candidate @hmazawi (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 31,
+          "scores": [
+            7050.613650445584,
+            1791.4690637351137
+          ],
+          "scores_total": 8842.082714180699
+        },
+        {
+          "id": "QmbdaWp3W3q96FUPFwDqUrCUX6khzFnHabmRZFUxJr5gqy",
+          "title": "[Multi-sig Governance] Candidate @martinkrung (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 28,
+          "scores": [
+            6468.126881763438,
+            735.1616266160946
+          ],
+          "scores_total": 7203.288508379533
+        },
+        {
+          "id": "Qmbjd7KKaSpAJaJBh96WbGUo4UWEnE7WVo5PxzWS1xZ6MB",
+          "title": "[Multi-sig Governance] Candidate @SBF_Alameda (Contributor)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 358,
+          "scores": [
+            261370.37496809516,
+            9339.843503353157
+          ],
+          "scores_total": 270710.21847144834
+        },
+        {
+          "id": "Qmc7dC3c2csW937MdVrGKPYCZCub7owgVvAazcZ6k8LfXw",
+          "title": "[Multi-sig Governance] Candidate @0xMaki (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 252,
+          "scores": [
+            191242.98682684108,
+            408.5923011954011
+          ],
+          "scores_total": 191651.57912803648
+        },
+        {
+          "id": "QmYeGxz3RacXSYJ5hqxXz4BZcMeYnPkoxUV8RdXiWHSgS8",
+          "title": "[Multi-sig Governance] Candidate @zippoxer (Contributor)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 128,
+          "scores": [
+            130029.81212170636,
+            19347.36769271732
+          ],
+          "scores_total": 149377.17981442367
+        },
+        {
+          "id": "Qma9TdzxHrqDxRAPLiYqECDjzKtFBAauoSfiJmdRk7jbMn",
+          "title": "[Multi-sig Governance] Candidate @tomhschmidt (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 11,
+          "scores": [
+            7614.573268344792,
+            3462.668281998179
+          ],
+          "scores_total": 11077.241550342971
+        },
+        {
+          "id": "QmcjPa8Bta9fnyvxCDwbG3TDrJNTUD4amVyTyEe7M56yDu",
+          "title": "[Multi-sig Governance] Candidate @KRMA_0 (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 27,
+          "scores": [
+            1221.725993327468,
+            14223.68615104196
+          ],
+          "scores_total": 15445.41214436943
+        },
+        {
+          "id": "QmQKxcpmas7JJYkKk33gVb31atcnCFAQGbLGPuhaE8tZsC",
+          "title": "[Multi-sig Governance] Candidate @JasonChoi (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 25,
+          "scores": [
+            11188.74901332777,
+            3352.7890847786493
+          ],
+          "scores_total": 14541.538098106417
+        },
+        {
+          "id": "QmdcqhqxpenoGJNU2vjSB1JUf5S1ntq9b77tKmP1KfFeXS",
+          "title": "[Multi-sig Governance] Candidate @coinmamba (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 9,
+          "scores": [
+            138.1523189155143,
+            3163.629887058031
+          ],
+          "scores_total": 3301.7822059735454
+        },
+        {
+          "id": "QmXxm3UWBbfHkkDw5yRZhkp8Ue5vq5qLpTGosiXc4E8zAt",
+          "title": "[Multi-sig Governance] Candidate @boxmining (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 144,
+          "scores": [
+            93841.09061255652,
+            32531.399239195423
+          ],
+          "scores_total": 126372.48985175195
+        },
+        {
+          "id": "QmQTPSP831jaCgeC31PbuayrfxXzvRifdDrqcTepZaworS",
+          "title": "[Multi-sig Governance] Candidate @cryptokenneth01 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 42,
+          "scores": [
+            38487.43221745769,
+            60245.16221274466
+          ],
+          "scores_total": 98732.5944302023
+        },
+        {
+          "id": "QmbAxnchwmxFdYpwQV1tT5fbPHe33D2E56cNwacwdWgXWi",
+          "title": "[Multi-sig Governance] Candidate @moo9000 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 23,
+          "scores": [
+            67079.33831711068,
+            143.96287418987015
+          ],
+          "scores_total": 67223.30119130055
+        },
+        {
+          "id": "QmNUqnKUcFTtB8mEni2v46fuJrrPzKQZbxcKjwNncNGBhh",
+          "title": "[Multi-sig Governance] Candidate @BlackDragon_io (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 12,
+          "scores": [
+            193.30572114348772,
+            4848.2639727876995
+          ],
+          "scores_total": 5041.569693931187
+        },
+        {
+          "id": "QmTFryF1x6ktB9xXgAztW6nyMgzYDe5JYF1hXpYZ7TmkVs",
+          "title": "[Multi-sig Governance] Candidate @TopTradersbyTV (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 10,
+          "scores": [
+            0,
+            818.325365348402
+          ],
+          "scores_total": 818.325365348402
+        },
+        {
+          "id": "QmfESUC9T8Wts1aLxPf5eyjHfuKMPDEs8LDUuAsbPqDbGt",
+          "title": "[Multi-sig Governance] Candidate @TheSahilsays (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 8,
+          "scores": [
+            0,
+            3353.322023723275
+          ],
+          "scores_total": 3353.322023723275
+        },
+        {
+          "id": "QmeqW5cybiJZXBmD59xG6fYmUJGQKrMqzrFKPBuU8RZwuw",
+          "title": "[Multi-sig Governance] Candidate @PopcornKirby (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 17,
+          "scores": [
+            43175.39876910573,
+            4389.367554685536
+          ],
+          "scores_total": 47564.766323791264
+        },
+        {
+          "id": "QmRiomzmtMw4w6VDZ1Yy5Ybfu6JLAW73JWMfe6MJaJ2VmG",
+          "title": "[Multi-sig Governance] Candidate @lawmaster (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 106,
+          "scores": [
+            178610.44756387104,
+            2223.7801725637783
+          ],
+          "scores_total": 180834.2277364348
+        },
+        {
+          "id": "QmZE68FcABH3HEGefRRoLaTgtodgUAVhqEmfEMHn2KMu9b",
+          "title": "[Multi-sig Governance] Candidate @imBagsy (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 22,
+          "scores": [
+            609.9367558860224,
+            29644.453531771436
+          ],
+          "scores_total": 30254.390287657458
+        },
+        {
+          "id": "QmY8fn2RMRMQDFDp9hePf9xXDvs8n7yGNc6gCekF2C4JoW",
+          "title": "[Multi-sig Governance] Candidate @cherry_hotwife (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 20,
+          "scores": [
+            88.5457323176243,
+            7119.062280733386
+          ],
+          "scores_total": 7207.608013051011
+        },
+        {
+          "id": "QmTseu54MMW6WgFYxMiMxjtUs1PM78LPg8e9YZR9EwnZ5C",
+          "title": "[Multi-sig Governance] Candidate @BigONEexchange (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 31,
+          "scores": [
+            698.6647647710271,
+            61111.90543337367
+          ],
+          "scores_total": 61810.57019814469
+        },
+        {
+          "id": "QmT89tDnpwxYZUc99n2Uoti45N8ptWX1591rEEFBd2kJDF",
+          "title": "[Multi-sig Governance] Candidate @GainsAssociates (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 9,
+          "scores": [
+            13.837408863563548,
+            3326.7985442132795
+          ],
+          "scores_total": 3340.635953076843
+        },
+        {
+          "id": "QmdLEKs2DLwX1kxXk3nrABVbKbcyE3WzZoFGKYtTyMVMMN",
+          "title": "[Multi-sig Governance] Candidate @superdxixi (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x30a0911731f6eC80c87C4b99f27c254639A3Abcd",
+          "votes": 16,
+          "scores": [
+            1287.6247606720808,
+            2028.56102112862
+          ],
+          "scores_total": 3316.185781800701
+        },
+        {
+          "id": "QmTnB7BNmnMBUkpdGuVLNMkRtQMDxwEfS7h1soYwkERszP",
+          "title": "[Multi-sig Governance] Candidate @Pentosh1 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 16,
+          "scores": [
+            268.1828907581076,
+            55128.699025246366
+          ],
+          "scores_total": 55396.88191600447
+        },
+        {
+          "id": "QmP1QUYQY4mw1z3jdf5PKjNHduXkhWQKEFVHm9PdjkYxDH",
+          "title": "[Multi-sig Governance] Candidate @JayHao8 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 35,
+          "scores": [
+            110817.96802680557,
+            896.6496568594578
+          ],
+          "scores_total": 111714.61768366501
+        },
+        {
+          "id": "QmPmXUQx15grke1Kt9DeYzTzxMMdFsAj8u4S3Z8vjbsFEk",
+          "title": "[Multi-sig Governance] Candidate @longvuong22 (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 44,
+          "scores": [
+            137539.12935502967,
+            53706.25456060773
+          ],
+          "scores_total": 191245.38391563742
+        },
+        {
+          "id": "QmYxUVv4YBhJM2TepnyYgvEUjz93Rr6nqndPckMbfTKN2k",
+          "title": "[Multi-sig Governance] Candidate @LiuJie1985 (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 61,
+          "scores": [
+            24148.581017137814,
+            13360.903939176304
+          ],
+          "scores_total": 37509.484956314125
+        },
+        {
+          "id": "QmSUJjtWXzjb37R6pDYdDHfLiS4TXWSvVDGXoMa4rTiqSo",
+          "title": "[Multi-sig Governance] Candidate @AdamScochran (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 110,
+          "scores": [
+            147294.86587867778,
+            7119.084963284757
+          ],
+          "scores_total": 154413.95084196253
+        },
+        {
+          "id": "QmQHAQiuX3BqxkgSfhu6VpARFfGD35AutCUqkeFja8x8UU",
+          "title": "[Multi-sig Governance] Candidate @erezbk (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 8,
+          "scores": [
+            41.78826257312961,
+            3059.5494645083036
+          ],
+          "scores_total": 3101.3377270814326
+        },
+        {
+          "id": "QmRHwYvuDqkvKqjJ3ifbsvG8uerKiwuMLnuSGA1vb1ZJTb",
+          "title": "[Multi-sig Governance] Candidate @Atonthego69 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 12,
+          "scores": [
+            12201.648203668135,
+            789.3554929982042
+          ],
+          "scores_total": 12991.003696666341
+        },
+        {
+          "id": "QmV55E8dShhrkZ5X5sUqm5164bpzH31skgEJNj3LPRf4af",
+          "title": "[Multi-sig Governance] Candidate @AlbertoOnChain (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 26,
+          "scores": [
+            1335.9628246604527,
+            5780.839231094469
+          ],
+          "scores_total": 7116.802055754922
+        },
+        {
+          "id": "QmUsgMT3KUX1EWKKcbYGAKy9UUEgsLQrgrhkjajAM3s94o",
+          "title": "[Multi-sig Governance] Candidate @CL207 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 18,
+          "scores": [
+            72081.25302122971,
+            3191.26195107672
+          ],
+          "scores_total": 75272.51497230644
+        },
+        {
+          "id": "QmWeSTpUBAiubG5yxxyFmBtxhBHtes28DyobqhC3rUZjD8",
+          "title": "[Multi-sig Governance] Candidate @RNR_0 (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 37,
+          "scores": [
+            78353.61260252645,
+            28145.329400178747
+          ],
+          "scores_total": 106498.94200270517
+        },
+        {
+          "id": "QmUQNT6q41BJagKeyDt3EGjwybFCcRzF2aeRNsJKsxqJPT",
+          "title": "[Multi-sig Governance] Candidate @oddgems (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 13,
+          "scores": [
+            2536.271377308077,
+            6224.78091355453
+          ],
+          "scores_total": 8761.052290862608
+        },
+        {
+          "id": "QmbedPsYBwsE6LAMCKkAj2yDpWi8YBHexxS74Tbup4Dmao",
+          "title": "[Multi-sig Governance] Candidate @CryptoFinally (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 47,
+          "scores": [
+            8600.496876220304,
+            9597.947378648416
+          ],
+          "scores_total": 18198.444254868722
+        },
+        {
+          "id": "QmY8XvVds8FwCGENffUiDBUmGq3j6V7dvCKWDWVe4TMV5N",
+          "title": "[Multi-sig Governance] Candidate @cmsholdings (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 43,
+          "scores": [
+            172481.22145781358,
+            9413.39429416718
+          ],
+          "scores_total": 181894.61575198077
+        },
+        {
+          "id": "QmbHuYvyvCiyKFFG4pL4VpNd1NDMJwv4RaXgs5MLTKa7MB",
+          "title": "[Multi-sig Governance] Candidate @Hardwood_ (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 35,
+          "scores": [
+            2603.1037014766616,
+            6148.1765546548195
+          ],
+          "scores_total": 8751.280256131484
+        },
+        {
+          "id": "QmamWih1vRejYuEFQLsfpZ7jDxuW7Qv56rF9cvtEF8v7f7",
+          "title": "[Multi-sig Governance] Candidate @ichimikichiki (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 11,
+          "scores": [
+            25116.568246010887,
+            2089.7890705709747
+          ],
+          "scores_total": 27206.357316581863
+        },
+        {
+          "id": "QmV7MP5SQGtrGAn3b66e2DStAVCMqr6KUHDndYUqehicBz",
+          "title": "[Multi-sig Governance] Candidate @abrkn (Twitter)",
+          "choices": [
+            " I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 19,
+          "scores": [
+            44738.18834857391,
+            54039.82449656947
+          ],
+          "scores_total": 98778.01284514337
+        },
+        {
+          "id": "QmZDNWStER8rU4nux75bkjiDmt7hs1HGmYVcAXuuaJMZWv",
+          "title": "[Multi-sig Governance] Candidate @loomdart (Twitter)",
+          "choices": [
+            "I want this candidate to represent $SUSHI",
+            "-"
+          ],
+          "start": 1599523200,
+          "end": 1599660600,
+          "snapshot": "10817188",
+          "author": "0x285b7EEa81a5B66B62e7276a24c1e0F83F7409c1",
+          "votes": 57,
+          "scores": [
+            105603.47664999844,
+            33319.150739211225
+          ],
+          "scores_total": 138922.62738920967
+        },
+        {
+          "id": "QmSzSkfom2PZsQffGBJexnhfTaZsfRqpU2xZnBJV9SifeE",
+          "title": "Stake/Unstake/Harvest functionality on FTX",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599436800,
+          "end": 1599652800,
+          "snapshot": "10815679",
+          "author": "0x7f6ff595ff0E70Aa3475A683f042D853004Cb302",
+          "votes": 2,
+          "scores": [
+            645.3346650116455,
+            0
+          ],
+          "scores_total": 645.3346650116455
+        },
+        {
+          "id": "QmXC3d5Pmbpt3qQ4RQhJG8QTqrb5ki8bZRz78ZTEWhKHV3",
+          "title": "Proposal to decrease $Sushi Inflation",
+          "choices": [
+            "Yes, we should decrease inflation",
+            "No, we should keep the inflation as is"
+          ],
+          "start": 1599480000,
+          "end": 1599739200,
+          "snapshot": "10815288",
+          "author": "0xf6423ebAEf6996Aee56ecb1D49be02613aF8555E",
+          "votes": 45,
+          "scores": [
+            5715.430597375308,
+            1261.180879391714
+          ],
+          "scores_total": 6976.611476767023
+        },
+        {
+          "id": "QmdXCYgQpm3ijrfR6jjg9eEMois5DAXpmnYKNzdgUqhiBf",
+          "title": "Reward those who provide liquidity through migration",
+          "choices": [
+            "Accept",
+            "Reject"
+          ],
+          "start": 1599485820,
+          "end": 1599745020,
+          "snapshot": "10814874",
+          "author": "0x1d5E65a087eBc3d03a294412E46CE5D6882969f4",
+          "votes": 406,
+          "scores": [
+            258841.8771701221,
+            692.7663256413409
+          ],
+          "scores_total": 259534.64349576348
+        },
+        {
+          "id": "QmSeNjdCwJNgVP3C3Bg1hSCUxMojJwewCVwsCV1sa1QPin",
+          "title": " Change Sushi Daily Supply to 1000000000000000000000Billion",
+          "choices": [
+            "yes",
+            "hell no"
+          ],
+          "start": 1599393600,
+          "end": 1600084800,
+          "snapshot": "10813969",
+          "author": "0x480b32A4e96f63d805F487a5c23E6db5a7d9e02A",
+          "votes": 37,
+          "scores": [
+            10571.871793986944,
+            17034.16034622889
+          ],
+          "scores_total": 27606.032140215837
+        },
+        {
+          "id": "Qmde52mttdgqzJRW6VsShXUbx8JtbgqgzcR6tsm8H3MZhi",
+          "title": "213",
+          "choices": [
+            "12313",
+            "123131"
+          ],
+          "start": 1599393600,
+          "end": 1599480000,
+          "snapshot": "123123131",
+          "author": "0x57eD5c3B5ce571f612E9A81BCf59e476A8A88902",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmc3KK1Lv9YxQYYtxdtzNUzaPGkJt3SHkjVBkE3Cw3egjh",
+          "title": "Question",
+          "choices": [
+            "hello1",
+            "hello2",
+            "hello3"
+          ],
+          "start": 1599393600,
+          "end": 1599998400,
+          "snapshot": "108134345",
+          "author": "0x56f2209FF61540D11eba5573B4F5B94D67Da5e70",
+          "votes": 0,
+          "scores": [
+            0,
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmUFKUQStsge4AcMJB4pX9JNGejEkyKgAFmc7gDobgmfP2",
+          "title": "dasda",
+          "choices": [
+            "32432",
+            "42342"
+          ],
+          "start": 1598875200,
+          "end": 1598961600,
+          "snapshot": "23231231",
+          "author": "0xcD0EC0f0563752ca7f5122AA7f94f2e6E9746C7f",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmSg9yVu2L25XhyBa33wNr5vAdvyeYrKn5EBMfQ5rQBwyn",
+          "title": "Grant for the migration of the first pool",
+          "choices": [
+            "2000 Sushi",
+            "4000 Sushi",
+            "6000 Sushi",
+            "8000 Sushi"
+          ],
+          "start": 1599318000,
+          "end": 1599480000,
+          "snapshot": "1",
+          "author": "0x982d6752c35aAa22dfb67915016042b83Fa48897",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmRAFr3m1qz7Rzs7r7dSGKfPyFN2A1vchcSW7vjeEFWLWG",
+          "title": "Grant for the migration of the first pool",
+          "choices": [
+            "2000 Sushi",
+            "3000 Sushi",
+            "4000 Sushi",
+            "5000 Sushi"
+          ],
+          "start": 1599318000,
+          "end": 1599480000,
+          "snapshot": "1",
+          "author": "0x982d6752c35aAa22dfb67915016042b83Fa48897",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmdt8gSfYtowtE3h5htqCyGAvHTqQzBQcDqBMsFZ4ujquX",
+          "title": "Sushi token upper limit and repurchase",
+          "choices": [
+            "yes",
+            "no"
+          ],
+          "start": 1599343200,
+          "end": 1599825600,
+          "snapshot": "10807505",
+          "author": "0x71d333d8E8DA603B0647b0cA21a99D21F5345aAA",
+          "votes": 5,
+          "scores": [
+            12554.211507403092,
+            0
+          ],
+          "scores_total": 12554.211507403093
+        },
+        {
+          "id": "QmdRjsrrEBq6JTXN9dcEHG8sFzaZ7jWdNsaENrQHuDxStc",
+          "title": "Liquidity Migration Proposal 2.0",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599390000,
+          "end": 1599476400,
+          "snapshot": "10809390",
+          "author": "0xD57581D9e42E9032e6f60422fA619b4A4574Ba79",
+          "votes": 273,
+          "scores": [
+            206975.20056418443,
+            3342.3381257614597
+          ],
+          "scores_total": 210317.5386899459
+        },
+        {
+          "id": "QmXXQiooUimGRBnDuYDVkGyG4LGBJ9FkdSFrTyrZ2wUaSx",
+          "title": "Path Forward Proposal",
+          "choices": [
+            "Approve this Proposal",
+            "Deny this Proposal"
+          ],
+          "start": 1599307200,
+          "end": 1599433200,
+          "snapshot": "10802360",
+          "author": "0xE80B5097862cAB9d83846875752d7201fF42C7E9",
+          "votes": 31,
+          "scores": [
+            10895.087102905212,
+            395.9108254227429
+          ],
+          "scores_total": 11290.997928327954
+        },
+        {
+          "id": "Qma4ZJB8cmqzqAVYR35h5dEFUHAXHCeazwx9q3nYNM6jvN",
+          "title": "SIP-5 Add SWRV-ETH LP Pool",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599300000,
+          "end": 1599386400,
+          "snapshot": "10800100",
+          "author": "0x6D3E136698beFEe231cD2E4E94bE0105D62FA01F",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmNPXm2mSxL4UjC43KmDRh27c5BJ8Roo6Y6A1mbwAoUUVJ",
+          "title": "make a forum or community?",
+          "choices": [
+            "let's make a forum",
+            "let's do nothing"
+          ],
+          "start": 1599318000,
+          "end": 1599480000,
+          "snapshot": "0",
+          "author": "0x1Fa09e8B45Cfff34b40bacDaAdD3E6FeE4F8E3a8",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmW1SEwSLvc6oU4zNPCWVwyKSjNe5wAjdo6igj3qjtviLN",
+          "title": "Allow mass harvesting of SUSHI rewards",
+          "choices": [
+            "Yes! Add \"KARAOKE TOGETHER\" and enjoy more SUSHI",
+            "No! Give my SUSHI gains away to \"TAPEWORM\" ETH Miners!"
+          ],
+          "start": 1599393600,
+          "end": 1599998400,
+          "snapshot": "10799633",
+          "author": "0xc080E234DBA2545E93872cE6E96E683A4e29046b",
+          "votes": 44,
+          "scores": [
+            3318.3100400436274,
+            1225.6195709444485
+          ],
+          "scores_total": 4543.929610988076
+        },
+        {
+          "id": "QmYT9oG72so1XM8n3xg444AxaEnzSKXEQDh11U1RiYA5kU",
+          "title": "Should Set Max Supply to 70M?",
+          "choices": [
+            "Yes",
+            "No",
+            "Yes, but needs to be a higher max supply"
+          ],
+          "start": 1599278400,
+          "end": 1599451200,
+          "snapshot": "10850000",
+          "author": "0x4Eb2C56dC750B0eA0e3D7cA5F9B6230bf6dF2D10",
+          "votes": 24,
+          "scores": [
+            294.4866675934072,
+            0,
+            47.18149493469768
+          ],
+          "scores_total": 341.6681625281049
+        },
+        {
+          "id": "QmXHmxpd4TRcJds9kpkzwNAtgbYhscgZohiTP6YtJX85jN",
+          "title": "Change SUSHI to a fixed supply of 4 billion",
+          "choices": [
+            "Limit supply of Sushi to 4 Billion tokens",
+            "Continue as is"
+          ],
+          "start": 1599307200,
+          "end": 1599825600,
+          "snapshot": "10798907",
+          "author": "0x717d52e84eF30875De52834603c112675CeDB7CA",
+          "votes": 24,
+          "scores": [
+            58.08532471418655,
+            1734.7423904470695
+          ],
+          "scores_total": 1792.827715161256
+        },
+        {
+          "id": "QmekFdvYrLvWZoaWmcNToybfDKzhMqZKnqRmGVUmbs3eW6",
+          "title": "Incentives for Uniswap LPs to Migrate to SUSHISWAP DEX",
+          "choices": [
+            "Penalize",
+            "Do Not Penalize"
+          ],
+          "start": 1599220800,
+          "end": 1599307200,
+          "snapshot": "10796387",
+          "author": "0x2164d6b2EF215A4f46912BdD18F27a25041EBe29",
+          "votes": 13,
+          "scores": [
+            798.3880864901066,
+            549.094036655724
+          ],
+          "scores_total": 1347.4821231458309
+        },
+        {
+          "id": "QmP5t4xVLaZUST7E9r8KX4DZvmMz6cRnaxybAorx7eyw6A",
+          "title": "Pay devs to make downloadabl client",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599273000,
+          "end": 1599359400,
+          "snapshot": "10793699",
+          "author": "0x552C35f51A52fa1bF1CA481A9a57D464474248D2",
+          "votes": 1,
+          "scores": [
+            77.47600193415786,
+            0
+          ],
+          "scores_total": 77.47600193415786
+        },
+        {
+          "id": "QmRc3xHBEvhzXn5Uyqp3GJw2Cn8iDv9p9zdVyGzmZkyXBw",
+          "title": " proposal for the Sushiswap community by @SBF_Alameda, CEO of @FTX_Official  and Alameda Research.",
+          "choices": [
+            "Yes",
+            "No",
+            "Yes but with modifications."
+          ],
+          "start": 1599188400,
+          "end": 1599361200,
+          "snapshot": "10793699",
+          "author": "0x01f2f39f782228772e40446ef85f42cF775daa9b",
+          "votes": 63,
+          "scores": [
+            71920.49452360983,
+            12523.09978696136,
+            261.1441157944349
+          ],
+          "scores_total": 84704.73842636561
+        },
+        {
+          "id": "QmcxDxp9qRM8qxQBA1LHzBbhzZv7KXnqUR4zJJmNoG9ANe",
+          "title": "Grant Proposal: http://sushiswap.xyz/",
+          "choices": [
+            "2000",
+            "4000",
+            "6000",
+            "8000",
+            "10000"
+          ],
+          "start": 1599220800,
+          "end": 1599307200,
+          "snapshot": "10791900",
+          "author": "0xa4ebD70668ABD528BEC1cE8B0de205c230BD1953",
+          "votes": 7,
+          "scores": [
+            588.8466270139063,
+            0,
+            0,
+            0,
+            687.5364152571428
+          ],
+          "scores_total": 1276.3830422710491
+        },
+        {
+          "id": "QmZyM1QzahgZt1D4D9ys21PHhVjhW99pH68D4AFcSqoCt2",
+          "title": "Marketing Channel/Team",
+          "choices": [
+            "Yes, Open channel and let's discuss it",
+            "No, who needs marketing."
+          ],
+          "start": 1599168600,
+          "end": 1599255000,
+          "snapshot": "10790712",
+          "author": "0x47b306c725FE30223663189701e1c336FEC2F520",
+          "votes": 17,
+          "scores": [
+            2384.8631931130653,
+            0
+          ],
+          "scores_total": 2384.8631931130653
+        },
+        {
+          "id": "QmbHX9TGWLsW1E2QeS6SrRruonbSYh3Dqc6aZqq9gFSW5o",
+          "title": "Incentivize LPs to stay staked during the migration",
+          "choices": [
+            "No incentive during migration is needed",
+            "One Time drop of sushis to LPs who are staked during migration",
+            "One time drop, but offset it with a reduction in pre-migration rewards"
+          ],
+          "start": 1599156000,
+          "end": 1599328800,
+          "snapshot": "10789831",
+          "author": "0x18f768455E7f5fB09fC491fd86bcc282BcDD5973",
+          "votes": 43,
+          "scores": [
+            31.009391552630323,
+            16046.100659845211,
+            43.97773794371543
+          ],
+          "scores_total": 16121.087789341558
+        },
+        {
+          "id": "QmXm9T791myT62Jj3iokarQYuUF2XKMBUXmqUKh5fKpK1L",
+          "title": "Liquidity Migration™️ Proposal",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1599141600,
+          "end": 1599228000,
+          "snapshot": "10790658",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 461,
+          "scores": [
+            442938.5439370743,
+            67768.47957181689
+          ],
+          "scores_total": 510707.0235088916
+        },
+        {
+          "id": "QmdTijSFWvMoWFBbW1S5Gi8JXdCk7b7GSxJws15HfmbqT4",
+          "title": "Add Sushi-USDT reward pool ",
+          "choices": [
+            "1x",
+            "2x",
+            "3x",
+            "4x",
+            "5x",
+            "No, better stay with Sushi-ETH"
+          ],
+          "start": 1599053400,
+          "end": 1599139800,
+          "snapshot": "10788200",
+          "author": "0x47b306c725FE30223663189701e1c336FEC2F520",
+          "votes": 1,
+          "scores": [
+            7.699978487873252,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 7.699978487873252
+        },
+        {
+          "id": "QmRqu9AEdmvS5pVVi7Vc8YeNFrrDbFWagGtyvcXPprKFqo",
+          "title": "questsion",
+          "choices": [
+            "agajfwe fjiw11111",
+            "wjefjweo222222222"
+          ],
+          "start": 1599048000,
+          "end": 1600862400,
+          "snapshot": "100000",
+          "author": "0x781562dA1647Ff91b684fC678546FFd719a0616d",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmec3wGCxb3id7GSAchnqRCJhnNzkiroZHcdUahT223DYU",
+          "title": "How do I kill Sushi",
+          "choices": [
+            "By fire",
+            "By knife"
+          ],
+          "start": 1599048000,
+          "end": 1599652800,
+          "snapshot": "10000000",
+          "author": "0x92FCCf0a1684C153CbB238977e855410a923C778",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmQvs9zBkzggN5t99RSp1i4pygQ1Le7SENvNg8kWNqidJZ",
+          "title": "Reward not removing liquidity until migration",
+          "choices": [
+            "Yes: Implement additional reward in Sushi for people letting their LP tokens be migrated",
+            "No: Lets see how this plays out as it is"
+          ],
+          "start": 1599134400,
+          "end": 1599307200,
+          "snapshot": "10787250",
+          "author": "0x73288778B2f2C0A7d1A13305916BFe24ee134cCe",
+          "votes": 16,
+          "scores": [
+            4012.800046130451,
+            110.21860185775007
+          ],
+          "scores_total": 4123.0186479882
+        },
+        {
+          "id": "QmbVujXwZiD6NABEnVVN8rEhzDbTXygkoue5bGgwU6PstZ",
+          "title": "WHT",
+          "choices": [
+            "YES",
+            "NO"
+          ],
+          "start": 1599048000,
+          "end": 1599652800,
+          "snapshot": "10786849",
+          "author": "0xbFD385ff896BB43D439c0894d13075664D437fe4",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmXcfQEtAtqbPjpi5ifgun4HbLvVvMm5gh9RAEq39EACEd",
+          "title": "Grant Proposal: https://sushi.zippo.io",
+          "choices": [
+            "1000 SUSHI",
+            "2000 SUSHI",
+            "3000 SUSHI",
+            "4000 SUSHI",
+            "5000 SUSHI"
+          ],
+          "start": 1599109200,
+          "end": 1599195600,
+          "snapshot": "10788200",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 250,
+          "scores": [
+            4063.362242498877,
+            572.6082205493689,
+            78490.1087313148,
+            2517.14500969863,
+            226236.4011632622
+          ],
+          "scores_total": 311879.62536732387
+        },
+        {
+          "id": "QmVWUX6fRfyPxSYqSNWjNFBjHNdXop2dfrFvRXFq4Wvw4V",
+          "title": "SIP-5 Make Sushiswap Safe",
+          "choices": [
+            "Use 10% of dev pool for Nexus incentives (1% of all inflation)",
+            "Use 5% of dev pool for Nexus incentives (0.5% of all inflation)"
+          ],
+          "start": 1599134400,
+          "end": 1599393600,
+          "snapshot": "10785878",
+          "author": "0x303763A602254E3f7712bD0864027B04700ef692",
+          "votes": 90,
+          "scores": [
+            8433.262605451248,
+            2955.670812890571
+          ],
+          "scores_total": 11388.933418341818
+        },
+        {
+          "id": "QmcTGbfMLXmUKRJCjJHEpbJSD2yqPYUgUoCTSbbKAEbr5m",
+          "title": "Incentivize LPs after Migration",
+          "choices": [
+            "0 days of 10X rewards after migration",
+            "1 day of 10X rewards after migration",
+            "2 days of 10x rewards after migration",
+            "3 days of 10x rewards after migration",
+            "4 days of 10x rewards after migration",
+            "5 days of 10x rewards after migration",
+            "6 days of 10 x rewards after migration",
+            "7 days of 10x rewards after migration"
+          ],
+          "start": 1599134400,
+          "end": 1599220800,
+          "snapshot": "10783030",
+          "author": "0x2dDdb6a69f071313580073941a4491313303b1AB",
+          "votes": 15,
+          "scores": [
+            0,
+            0,
+            0,
+            141.67815793933164,
+            0,
+            1764.7825082491158,
+            0,
+            639.9401376474441
+          ],
+          "scores_total": 2546.400803835891
+        },
+        {
+          "id": "QmNi9qRxp2Y7hKpDftcZX71i56ufcnEbtRhTDHRtrhUDHM",
+          "title": "Sell X% of Dev Fund for Dai and implement Governance",
+          "choices": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+          ],
+          "start": 1599134400,
+          "end": 1599220800,
+          "snapshot": "10782935",
+          "author": "0xCAF6acB7B4825aDBF1F0CA20095D451eC65a7c51",
+          "votes": 3,
+          "scores": [
+            69.88900216972979,
+            0,
+            0,
+            0
+          ],
+          "scores_total": 69.88900216972979
+        },
+        {
+          "id": "QmURwf5RHeNxpbsXXYAarPG4uS6BeYDioHyiARqyX6qgER",
+          "title": "Add ADX/ETH pool (correct proposal)",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598961600,
+          "end": 1599134400,
+          "snapshot": "10795291",
+          "author": "0xd6e371526cdaeE04cd8AF225D42e37Bc14688D9E",
+          "votes": 6,
+          "scores": [
+            2179.965200754024,
+            197.7450453147479
+          ],
+          "scores_total": 2377.710246068772
+        },
+        {
+          "id": "QmNW3uvb3f6qUxDSvqCNRR1UWzqqhevFmTSVWoVBCJM18j",
+          "title": "Add ADX/ETH pool",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598961600,
+          "end": 1599134400,
+          "snapshot": "11100460",
+          "author": "0xd6e371526cdaeE04cd8AF225D42e37Bc14688D9E",
+          "votes": 6,
+          "scores": [
+            0,
+            41.285358219404074
+          ],
+          "scores_total": 41.285358219404074
+        },
+        {
+          "id": "QmYKBGzqUwtfLuN3mHG7G19DSkPwwDqfdA5vnxnG1WUrcD",
+          "title": "SuShi to the moon",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598961900,
+          "end": 1599048360,
+          "snapshot": "10779591",
+          "author": "0x3f38546D1789A11343cB335C3E6f9f1bfC76fddc",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "QmdyL1KKcJxDNvAvj8hqJY3xgqHnq4bVQMzm9T2s6BiFS4",
+          "title": "Should the ETH/SUSHI pool migrate early with liquidity providers receiving a one-time airdrop from the dev fund?",
+          "choices": [
+            "Migrate early and receive a one-time airdrop SUSHI reward from dev fund for providing LP",
+            "Migrate as planned"
+          ],
+          "start": 1598961600,
+          "end": 1599048000,
+          "snapshot": "10775722",
+          "author": "0xA9Ec7aB90eCDE9E33FC846de370a0f2532d513be",
+          "votes": 20,
+          "scores": [
+            1560.0459276239476,
+            12949.04963684705
+          ],
+          "scores_total": 14509.095564470997
+        },
+        {
+          "id": "QmZM6iauZaEM5mGzT9dVXwGFyxH43YACDsjXFwDpKfkVM4",
+          "title": "台風発生へ 最悪の事態想定を",
+          "choices": [
+            "女子トレンド",
+            "のケースに備えを"
+          ],
+          "start": 1598875200,
+          "end": 1601380800,
+          "snapshot": "123",
+          "author": "0x09C186ce1e73EF203354AE2D1B6EA3b1D6f2098B",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmXiaUtP4Fq3X5EQxVthX5pqjS2Uu23uJt6mKShwbTEx7b",
+          "title": "Is Sushiswap a scam?",
+          "choices": [
+            "Yes",
+            "No",
+            "Nor sure",
+            "Who cares"
+          ],
+          "start": 1598875200,
+          "end": 1601467200,
+          "snapshot": "1",
+          "author": "0x09C186ce1e73EF203354AE2D1B6EA3b1D6f2098B",
+          "votes": 0,
+          "scores": [],
+          "scores_total": 0
+        },
+        {
+          "id": "QmXBvzHrambpkztJB1ftv27v5B9yRJdB35XBTZaBJLAoE5",
+          "title": "Add DIA-ETH Pool to Sushiswap",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598788800,
+          "end": 1598961600,
+          "snapshot": "10775000",
+          "author": "0x79F2E52181cE6eDC712e6ACF536a918b6B6bfB66",
+          "votes": 3,
+          "scores": [
+            0,
+            9027.1311338467
+          ],
+          "scores_total": 9027.1311338467
+        },
+        {
+          "id": "QmddQ3RDFfq8VJk3o4bwfhUCU2LdfaLbd93AfVMcpiKuSw",
+          "title": "SIP-5: Add DIA LP Pool to SushiSwap",
+          "choices": [
+            "Yes Add DIA-ETH Pool",
+            "No Don't Add DIA-ETH Pool"
+          ],
+          "start": 1598818800,
+          "end": 1598847600,
+          "snapshot": "10772866",
+          "author": "0xf071fc2a79c61C7f34f98A67F59293FD338EbA8B",
+          "votes": 0,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmb7W1zoseXA285jUeAXC9dWUjPeTgHoMk1XQWeiy24QZQ",
+          "title": "Add timelock for Sushi rewards",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598906100,
+          "end": 1598992500,
+          "snapshot": "10769954",
+          "author": "0x8D4F54913BA39263395B0067F953355813223699",
+          "votes": 27,
+          "scores": [
+            25359.265327262037,
+            11491.179191662326
+          ],
+          "scores_total": 36850.44451892436
+        },
+        {
+          "id": "QmfSJc1PgrQdASz2aXDjEGHHCeXSnwbvAKiiKQG4t42qob",
+          "title": "Adjust Reward Weight for LINK-ETH LP Pool",
+          "choices": [
+            "1x",
+            "2x",
+            "3x",
+            "4x"
+          ],
+          "start": 1598788800,
+          "end": 1598961600,
+          "snapshot": "10769673",
+          "author": "0xB72eD8401892466Ea8aF528C1af1d0524bc5e105",
+          "votes": 14,
+          "scores": [
+            25904.713933072995,
+            42.39552668381008,
+            0,
+            174.9479843098951
+          ],
+          "scores_total": 26122.0574440667
+        },
+        {
+          "id": "QmNuZaLt4riJGPKb8XCHwqXvbBmHfrNyWkfB2hUwbSfPYP",
+          "title": " SIP-4: Add More LP Pools to SushiSwap",
+          "choices": [
+            "YFV-USDT",
+            "BZRX-ETH",
+            "YFII-ETH",
+            "OM-ETH",
+            "YAMv2-ETH",
+            "ETH-FSW",
+            "ETH-CHAIN",
+            "ETH-CRV",
+            "DIA-ETH",
+            "ETH-ZZZ",
+            "STAKE-ETH",
+            "ETH-SWAP",
+            "MTA-ETH",
+            "CREAM-ETH",
+            "wNXM-ETH",
+            "REN-ETH",
+            "SRM-ETH",
+            "sUSD-$BASED",
+            "ANT-ETH",
+            "RSR-ETH"
+          ],
+          "start": 1598886000,
+          "end": 1598972400,
+          "snapshot": "10771500",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 786,
+          "scores": [
+            2526.024036993124,
+            147.89688658613613,
+            49491.79156600515,
+            1264.4864155016903,
+            82400.01382369015,
+            0,
+            80.8857817703457,
+            69893.34113265004,
+            472.1782938781621,
+            32.1670088458836,
+            77.17128300309851,
+            2063.8336102865705,
+            158.68875179022808,
+            48.05842044937471,
+            12228.376594159445,
+            98540.36417415338,
+            83220.60225206333,
+            91626.69916880046,
+            76.5043897358765,
+            291.38588946367224
+          ],
+          "scores_total": 494640.46947982605
+        },
+        {
+          "id": "QmTNd5kqky9Bo8EYvSfAmWPVj3gZJEyfvNXWhDF2jmVfdJ",
+          "title": "Add Support for YFV/ETH LP ",
+          "choices": [
+            "Yes",
+            "No"
+          ],
+          "start": 1598875200,
+          "end": 1598961600,
+          "snapshot": "10768726",
+          "author": "0x8BA4644045093DE17bF3AD90f9759bcDF1626760",
+          "votes": 32,
+          "scores": [
+            2278.423046499912,
+            32694.10697848514
+          ],
+          "scores_total": 34972.530024985055
+        },
+        {
+          "id": "QmaWmQFWXfRiWmAeM7aUny3mM7buJeAFinuq3n6Sx7e7U8",
+          "title": "Add LPT/ETH pool",
+          "choices": [
+            "Yes ",
+            "No"
+          ],
+          "start": 1598788800,
+          "end": 1599393600,
+          "snapshot": "10768692",
+          "author": "0xe426ad6DDF3905de9D798f49cb19d6E9A6a3335f",
+          "votes": 22,
+          "scores": [
+            0,
+            10690.374988431991
+          ],
+          "scores_total": 10690.374988431993
+        },
+        {
+          "id": "QmUvNBaW6xUyBRDqtUmR1Fsnnm9eioGHhHv6SZcYDhDJg3",
+          "title": "SIP-3: (7-day vol > ~100M) Adjust Reward Weight for YFI-ETH / USDC-ETH / DAI-ETH LP Pools",
+          "choices": [
+            "1x",
+            "2x",
+            "3x",
+            "4x"
+          ],
+          "start": 1598857200,
+          "end": 1598943600,
+          "snapshot": "10769240",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 232,
+          "scores": [
+            105100.30719061116,
+            50607.72625644386,
+            295.6302768766507,
+            92260.94323900444
+          ],
+          "scores_total": 248264.6069629359
+        },
+        {
+          "id": "QmfBqyhLgHXQcBme2KgzzuN5PiBMHQnixatvDDvzzekkpd",
+          "title": "hujkl",
+          "choices": [
+            "e",
+            "e"
+          ],
+          "start": 1598443200,
+          "end": 1601121600,
+          "snapshot": "2147483647",
+          "author": "0xAdd11019d12a7055fb4cb5453226c250D7851BAd",
+          "votes": 1,
+          "scores": [
+            0,
+            0
+          ],
+          "scores_total": 0
+        },
+        {
+          "id": "Qmam85UYWYi7ZRuP8FsNvHSczoNB1XPurQ9FKpnLg8GZ6n",
+          "title": "Reduce Scam Token/Projects",
+          "choices": [
+            "Yes",
+            "No "
+          ],
+          "start": 1598875200,
+          "end": 1599134400,
+          "snapshot": "10767000",
+          "author": "0xAdd11019d12a7055fb4cb5453226c250D7851BAd",
+          "votes": 24,
+          "scores": [
+            6594.267115852717,
+            73.34267249082959
+          ],
+          "scores_total": 6667.609788343547
+        },
+        {
+          "id": "QmNzRjiNUrUsteNFrc8BVXVQwB36cRE1H34pAgY1ivi8rh",
+          "title": " SIP-2: Adjust Reward Weight for USDT-ETH LP Pool ",
+          "choices": [
+            "1x",
+            "2x",
+            "3x",
+            "4x"
+          ],
+          "start": 1598806800,
+          "end": 1598893200,
+          "snapshot": "10765200",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 289,
+          "scores": [
+            168944.10187143798,
+            1191.780480782358,
+            984.8377278180508,
+            74000.17993392705
+          ],
+          "scores_total": 245120.9000139654
+        },
+        {
+          "id": "Qmbh9K9F3xtHBXoScfk6m6hiFRsGBM4D8GZWbvdGJPaA6z",
+          "title": "SIP-1 (The right one): Adjust Reward Weight for SUSHI-ETH LP Pool",
+          "choices": [
+            "2x",
+            "3x",
+            "4x",
+            "5x"
+          ],
+          "start": 1598806800,
+          "end": 1598893200,
+          "snapshot": "10765200",
+          "author": "0xF942Dba4159CB61F8AD88ca4A83f5204e8F4A6bd",
+          "votes": 444,
+          "scores": [
+            4028.284042211382,
+            5669.3305751669905,
+            20629.64626925392,
+            185949.46311430208
+          ],
+          "scores_total": 216276.7240009344
+        }
+      ]
